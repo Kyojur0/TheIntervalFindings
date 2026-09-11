@@ -42,20 +42,24 @@ def fig_provider_distribution(theme):
         patch.set_edgecolor(c["bg"])
         patch.set_linewidth(1.2)
 
+    # Headroom above the tallest bar so the threshold labels never sit on one.
+    ax.set_ylim(0, max(n) * 1.24)
+    label_y = max(n) * 1.11
+
     ax.axvline(STANDARD, color=c["teal"], lw=1.2, ls=(0, (5, 4)), zorder=3)
-    ax.text(STANDARD - 1.2, ax.get_ylim()[1] * 0.97, "92%  THE STANDARD",
-            family=MONO, fontsize=7.5, color=c["teal"], ha="right", va="top")
+    ax.text(STANDARD - 1.2, label_y, "92%  THE STANDARD",
+            family=MONO, fontsize=7.5, color=c["teal"], ha="right", va="center")
     ax.axvline(INTERIM, color=c["muted"], lw=0.9, ls=(0, (2, 3)), zorder=3)
-    ax.text(INTERIM - 1.2, ax.get_ylim()[1] * 0.82, "65%  INTERIM TARGET",
-            family=MONO, fontsize=7.5, color=c["muted"], ha="right", va="top")
+    ax.text(INTERIM - 1.2, label_y, "65%  INTERIM TARGET",
+            family=MONO, fontsize=7.5, color=c["muted"], ha="right", va="center")
 
     lo, hi = df.loc[v.idxmin()], df.loc[v.idxmax()]
     ax.annotate(f"{lo.pct_within_18w:.1f}%  {lo.provider_code}", xy=(lo.pct_within_18w, 0.6),
-                xytext=(lo.pct_within_18w, ax.get_ylim()[1] * 0.42), family=MONO, fontsize=7.5,
+                xytext=(lo.pct_within_18w, max(n) * 0.42), family=MONO, fontsize=7.5,
                 color=c["vermilion"], ha="center",
                 arrowprops=dict(arrowstyle="-", color=c["vermilion"], lw=0.8))
     ax.annotate(f"{hi.pct_within_18w:.1f}%  {hi.provider_code}", xy=(hi.pct_within_18w, 0.6),
-                xytext=(hi.pct_within_18w, ax.get_ylim()[1] * 0.42), family=MONO, fontsize=7.5,
+                xytext=(hi.pct_within_18w, max(n) * 0.42), family=MONO, fontsize=7.5,
                 color=c["ink"], ha="center",
                 arrowprops=dict(arrowstyle="-", color=c["ink"], lw=0.8))
 
