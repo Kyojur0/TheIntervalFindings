@@ -19,9 +19,10 @@ PACK = Path(__file__).resolve().parents[1]
 OUT, FIG = PACK / "outputs", PACK / "figures"
 FIG.mkdir(exist_ok=True)
 
-# Ordered by how much durable between-provider structure each carries, so every
-# figure tells the four specialties in the same sequence.
-ORDER = ["C_110", "C_301", "C_130", "C_120"]
+# Ordered by how much durable between-provider structure each carries at the
+# 500-pathway floor these figures use, so every figure — and the article's
+# comparison table — tells the four specialties in the same sequence.
+ORDER = ["C_110", "C_130", "C_301", "C_120"]
 SHORT = {"C_110": "Trauma & Orthopaedics", "C_301": "Gastroenterology",
          "C_130": "Ophthalmology", "C_120": "Ear, Nose & Throat"}
 SRC = "Source: NHS England RTT, Jan 2024 - May 2026  ·  Analysis: The Interval"
