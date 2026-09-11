@@ -17,11 +17,35 @@ import matplotlib.pyplot as plt
 MONO = "DejaVu Sans Mono"
 SERIF = "DejaVu Serif"
 
+def _hsl(h, s, l):
+    """HSL percentages to hex, so the palette below can be written exactly as the
+    site's CSS custom properties declare it."""
+    import colorsys
+
+    r, g, b = colorsys.hls_to_rgb(h / 360.0, l / 100.0, s / 100.0)
+    return "#%02X%02X%02X" % (round(r * 255), round(g * 255), round(b * 255))
+
+
+# Transcribed from TheIntervalWebsite/src/index.css. The figures sit inside the
+# page, so they must use the page's own palette rather than an approximation of
+# it. If the site's tokens change, change these with them.
 THEMES = {
-    "light": dict(bg="#FBFAF6", ink="#1C1B17", muted="#6E6A5E", hairline="#D8D3C6",
-                  teal="#2E6F6A", vermilion="#C2492B"),
-    "dark": dict(bg="#1B1915", ink="#F5F2E9", muted="#9A9484", hairline="#3A372D",
-                 teal="#5FA8A0", vermilion="#D96A4A"),
+    "light": dict(                       # :root
+        bg=_hsl(48, 33, 97),             # --background
+        ink=_hsl(40, 9, 10),             # --foreground
+        muted=_hsl(44, 9, 33),           # --muted-foreground
+        hairline=_hsl(46, 14, 81),       # --hairline
+        teal=_hsl(180, 68, 18),          # --teal
+        vermilion=_hsl(13, 73, 45),      # --vermilion
+    ),
+    "dark": dict(                        # .dark
+        bg=_hsl(150, 6, 6),
+        ink=_hsl(48, 14, 92),
+        muted=_hsl(45, 6, 58),
+        hairline=_hsl(150, 5, 15),
+        teal=_hsl(171, 46, 56),
+        vermilion=_hsl(14, 82, 59),
+    ),
 }
 
 
