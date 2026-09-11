@@ -1,0 +1,17 @@
+specialty_code,specialty,floor,panel,distinct_bottom_decile_providers,distinct_top_decile_providers,bottom_decile_slots,top_decile_slots,fully_fixed_bottom_slots,fully_fixed_top_slots,eligible_provider_universe,max_possible_distinct_bottom,max_possible_distinct_top
+C_301,Gastroenterology,500,moving,43,36,366,366,26,29,131,131,131
+C_301,Gastroenterology,500,balanced,38,27,319,319,25,29,110,110,110
+C_130,Ophthalmology,500,moving,51,63,420,420,29,28,194,194,194
+C_130,Ophthalmology,500,balanced,38,22,319,319,29,29,110,110,110
+C_120,"Ear, Nose and Throat",500,moving,46,37,370,370,23,29,131,131,131
+C_120,"Ear, Nose and Throat",500,balanced,43,33,348,348,23,29,114,114,114
+C_110,Trauma and Orthopaedics,500,moving,71,70,645,645,28,29,257,257,257
+C_110,Trauma and Orthopaedics,500,balanced,61,47,580,580,27,29,191,191,191
+C_301,Gastroenterology,1000,moving,40,32,332,332,26,29,122,122,122
+C_301,Gastroenterology,1000,balanced,35,27,290,290,25,29,92,92,92
+C_130,Ophthalmology,1000,moving,41,39,336,336,29,28,130,130,130
+C_130,Ophthalmology,1000,balanced,38,28,319,319,29,29,103,103,103
+C_120,"Ear, Nose and Throat",1000,moving,43,33,348,348,23,29,119,119,119
+C_120,"Ear, Nose and Throat",1000,balanced,40,30,319,319,23,29,108,108,108
+C_110,Trauma and Orthopaedics,1000,moving,56,47,521,521,27,29,201,201,201
+C_110,Trauma and Orthopaedics,1000,balanced,47,32,435,435,27,29,150,150,150
