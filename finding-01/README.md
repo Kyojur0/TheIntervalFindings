@@ -1,21 +1,38 @@
-# Finding 01 — The 18-week standard, becoming the exception
+# Finding 01 — Sixty points within one specialty
 
-**Status:** In verification
+**Status:** ✅ Verified
 **Series:** RTT · England
 **Article:** `/findings/01` on The Interval
 
-This folder is the reproducibility pack for Finding 01. Everything a reader
-needs to reproduce every number published in the article lives here.
+This is the verified reproducibility pack for Finding 01. Among 119 provider
+codes with at least 500 incomplete gastroenterology pathways in April 2026,
+within-18-week performance ranges from 37.3% to 97.7% (a 60.4 percentage-point
+spread). The spread remains after provider-size controls.
 
 ## Contents
 
-- `analysis/` — the Python pipeline (DuckDB + pandas) that produces every figure and statistic
-- `data/` — the raw NHS England RTT files used, or a `SOURCES.md` with direct links and download dates
-- `figures/` — matplotlib outputs rendered to The Interval's figure specification
-- `README.md` — this file
+- `analysis/` — canonical Python analysis and independent audit scripts
+- `data/` — no large raw extract is duplicated; see `SOURCES.md`
+- `figures/` — verified charts from the analysis
+- `outputs/` — verified derived CSV tables
+- `SOURCES.md` — source URLs, local paths, hashes, scope, and reproduction notes
 
-## Rules
+## Reproduce
 
-- Every number in the article must be reproducible end-to-end from these files
-- Quote the data vintage (publication month) next to every output
-- If a figure appears in the article, the code that drew it is in `analysis/`
+From the project root, ensure the raw extracts listed in `SOURCES.md` are
+present, then run:
+
+```bash
+cd final-uploads/finding-01
+python analysis/make_figures.py
+```
+
+The scripts filter exact `Part_2` rows, exclude `NONC`, sum the weekly bands,
+and write figures to `figures/` and derived tables to `outputs/`. Requires
+Python 3.10+ with DuckDB, pandas, and matplotlib.
+
+## Scope note
+
+The April 2026 extract was a first-release file when this package was
+assembled and may later be revised by NHS England. Recheck against a revised
+release when available.

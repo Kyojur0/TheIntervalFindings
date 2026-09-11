@@ -3,20 +3,18 @@
 The Interval — README header image
 ==================================
 
-Draws the archive's header banner in light (paper) and dark (ink) variants,
-to The Interval's figure specification: ink within the 18-week standard,
-vermilion beyond it, dashed teal where the standard lies.
+Draws the archive's header banner in light (paper) and dark (ink) variants.
+The mark uses the same percentage scale as the website masthead: 65.6% of
+pathways within 18 weeks in May 2026 against the 92% NHS standard. It is a
+static promise-versus-reality comparison, not a time series.
 
     python assets/make_header.py
 
-Outputs: assets/the-interval-header-light.png, assets/the-interval-header-dark.png
-The series shown is the Finding 01 sample series; the header is a brand mark,
-not a published figure.
+Outputs: assets/the-interval-header-light.png,
+         assets/the-interval-header-dark.png
 """
 
 from pathlib import Path
-
-import pandas as pd
 
 try:
     from daimon_runtime import setup_plot
@@ -32,12 +30,8 @@ import matplotlib.pyplot as plt
 OUT = Path(__file__).resolve().parent
 SERIF = "DejaVu Serif"
 MONO = "DejaVu Sans Mono"
-STANDARD = 18.0
-
-# Finding 01 sample series (monthly median wait, weeks)
-MONTHS = pd.date_range("2024-01", periods=24, freq="MS")
-SERIES = [14.8, 14.6, 15.1, 15.3, 15.0, 15.6, 16.2, 16.8, 17.5, 18.2, 18.6, 19.1,
-          19.8, 20.1, 20.7, 21.0, 21.4, 21.9, 22.2, 22.5, 22.8, 23.0, 23.2, 23.4]
+ACTUAL = 65.6
+TARGET = 92.0
 
 VARIANTS = {
     "light": dict(bg="#FBFAF6", ink="#1C1B17", muted="#6E6A5E", hairline="#D8D3C6",
@@ -57,47 +51,48 @@ def draw(name, c):
     fig.text(0.057, 0.60, "NHS DATA, READ OUT LOUD", fontfamily=MONO,
              fontsize=12.5, color=c["vermilion"])
     fig.text(0.057, 0.455,
-             "The NHS promises the wait from referral to treatment is 18 weeks.",
+             "The NHS standard is 92% within 18 weeks.",
              fontfamily=SERIF, fontsize=13.5, color=c["muted"])
-    fig.text(0.057, 0.375, "The data records what it actually is.",
+    fig.text(0.057, 0.375,
+             "The latest published result sits at 65.6%.",
              fontfamily=SERIF, fontsize=13.5, color=c["muted"])
     fig.text(0.057, 0.22, "THE FINDINGS ARCHIVE · EVERY NUMBER REPRODUCIBLE",
              fontfamily=MONO, fontsize=9, color=c["muted"])
 
-    # ——— the signature series, right ———
-    ax = fig.add_axes([0.50, 0.16, 0.455, 0.62])
+    # ——— the signature promise-versus-reality scale, right ———
+    ax = fig.add_axes([0.50, 0.20, 0.455, 0.52])
     ax.set_facecolor(c["bg"])
     for spine in ax.spines.values():
         spine.set_visible(False)
-    ax.tick_params(length=0, colors=c["muted"], labelsize=9)
+    ax.tick_params(length=0, colors=c["muted"], labelsize=9, pad=8)
     for label in ax.get_xticklabels() + ax.get_yticklabels():
         label.set_fontfamily(MONO)
 
-    ax.set_ylim(12, 25)
-    ax.set_xlim(MONTHS[0], MONTHS[-1])
-    ax.set_yticks([12, 15, 18, 21, 24])
-    ax.set_xticks([MONTHS[0], MONTHS[12], MONTHS[-1]])
-    ax.set_xticklabels(["JAN 24", "JAN 25", "DEC 25"])
-    ax.yaxis.grid(True, color=c["hairline"], lw=0.8)
+    ax.set_xlim(0, 100)
+    ax.set_ylim(-0.44, 0.44)
+    ax.set_xticks([0, 20, 40, 60, 80, 100])
+    ax.set_xticklabels(["0", "20", "40", "60", "80", "100"])
+    ax.set_yticks([])
+    ax.xaxis.grid(True, color=c["hairline"], lw=0.8, zorder=0)
 
-    ax.axhline(STANDARD, color=c["teal"], lw=1.2, ls=(0, (5, 4)), zorder=1)
+    ax.axvline(TARGET, color=c["teal"], lw=1.2, ls=(0, (5, 4)), zorder=1)
+    ax.plot([0, 100], [0, 0], color=c["ink"], lw=1.5, zorder=2)
+    ax.plot([ACTUAL, TARGET], [0, 0], color=c["vermilion"], lw=5,
+            solid_capstyle="round", zorder=3)
+    ax.scatter([ACTUAL], [0], color=c["vermilion"], s=42, zorder=4)
+    ax.scatter([TARGET], [0], color=c["teal"], s=42, zorder=4)
 
-    breach_start = next(i for i, v in enumerate(SERIES) if v > STANDARD)
-    ax.plot(MONTHS[: breach_start + 1], SERIES[: breach_start + 1],
-            color=c["ink"], lw=2, zorder=3)
-    ax.plot(MONTHS[breach_start:], SERIES[breach_start:],
-            color=c["vermilion"], lw=2, zorder=3)
-    ax.fill_between(MONTHS[breach_start:], STANDARD, SERIES[breach_start:],
-                    color=c["vermilion"], alpha=0.14, zorder=2)
-    ax.scatter([MONTHS[-1]], [SERIES[-1]], color=c["vermilion"], s=30, zorder=4)
-    ax.annotate(f"{SERIES[-1]:.1f}", (MONTHS[-1], SERIES[-1]),
-                textcoords="offset points", xytext=(-2, 10), ha="right",
-                fontfamily=MONO, fontsize=11, fontweight="bold", color=c["vermilion"])
-    ax.text(MONTHS[-1], STANDARD - 1.1, "18 WKS · THE STANDARD",
-            fontfamily=MONO, fontsize=8.5, color=c["teal"], ha="right")
+    ax.text(ACTUAL, 0.19, f"{ACTUAL:.1f}%", fontfamily=MONO, fontsize=11,
+            fontweight="bold", color=c["vermilion"], ha="center", va="bottom")
+    ax.text(ACTUAL, -0.27, "MAY 2026", fontfamily=MONO, fontsize=8.5,
+            color=c["muted"], ha="center", va="top")
+    ax.text(TARGET, -0.27, "92% · THE STANDARD", fontfamily=MONO, fontsize=8.5,
+            color=c["teal"], ha="center", va="top")
+    ax.text(0, 0.36, "WITHIN 18 WEEKS", fontfamily=MONO, fontsize=8.5,
+            color=c["muted"], ha="left", va="bottom")
 
     fig.savefig(OUT / f"the-interval-header-{name}.png", dpi=110,
-                facecolor=c["bg"])
+                facecolor=c["bg"], bbox_inches="tight", pad_inches=0.18)
     plt.close(fig)
     print(f"  wrote assets/the-interval-header-{name}.png")
 
