@@ -1,0 +1,9 @@
+{
+  "audited_snapshot": "outputs/verification_report_snapshot.md",
+  "audited_report_sha256": "90dac13322fe31df5dd237207d3da539bedc943785492dee548bd2a0adcf3b57",
+  "presentation_report": "outputs/REPORT.md",
+  "presentation_report_sha256": "d4a29e63d6b670a97d45b580fe34fc3abfa73ee014277fc62526cef0358a877b",
+  "presentation_changes": [
+    "Image links relocated from ../pack/figures/ to ../figures/; prose and numbers unchanged."
+  ]
+}

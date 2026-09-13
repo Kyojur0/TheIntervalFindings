@@ -1,0 +1,15 @@
+check,value,denominator
+national_middle_largest_months,0.0,29
+specialty_middle_largest_months,0.0,203
+revised_months,23.0,29
+all_revised_national_p92_above18,1.0,1
+revised_specialty_p92_above18,161.0,161
+latest_specialty_p50_below18,7.0,7
+latest_specialty_p92_above18,7.0,7
+national_median_lower_bound_max_shift,0.9976760159511322,29
+national_median_midpoint_max_shift,0.4976760159511322,29
+modern_min_closed_share,0.99625468164794,264
+national_median_endpoint_change,-2.6167560497019426,29
+national_p92_endpoint_change,-6.699719069067946,29
+national_middle_endpoint_change,-571536.0,29
+specialty_middle_endpoint_change,-246987.0,7

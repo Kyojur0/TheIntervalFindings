@@ -1,0 +1,111 @@
+{
+  "csv_comparisons": [
+    {
+      "file": "all_measures.csv",
+      "identical": true
+    },
+    {
+      "file": "endpoint_changes.csv",
+      "identical": true
+    },
+    {
+      "file": "official_nhs_percentiles.csv",
+      "identical": true
+    },
+    {
+      "file": "monthly_measures.csv",
+      "identical": true
+    },
+    {
+      "file": "total_detail_reconciliation.csv",
+      "identical": true
+    },
+    {
+      "file": "finding02_reconciliation.csv",
+      "identical": true
+    },
+    {
+      "file": "completed_measures.csv",
+      "identical": true
+    },
+    {
+      "file": "national_band_distribution.csv",
+      "identical": true
+    },
+    {
+      "file": "specialty_monthly.csv",
+      "identical": true
+    },
+    {
+      "file": "band_sensitivity.csv",
+      "identical": true
+    },
+    {
+      "file": "baseline_measures.csv",
+      "identical": true
+    },
+    {
+      "file": "open_band_checks.csv",
+      "identical": true
+    },
+    {
+      "file": "official_comparison.csv",
+      "identical": true
+    },
+    {
+      "file": "national_monthly.csv",
+      "identical": true
+    },
+    {
+      "file": "earlier_median_crosscheck.csv",
+      "identical": true
+    },
+    {
+      "file": "adversarial_checks.csv",
+      "identical": true
+    },
+    {
+      "file": "rtt_trajectory_national.csv",
+      "identical": true
+    },
+    {
+      "file": "validation_gate.csv",
+      "identical": true
+    }
+  ],
+  "figure_comparisons": [
+    {
+      "file": "figure-02-promise-dark.png",
+      "identical": true
+    },
+    {
+      "file": "figure-04-shape-dark.png",
+      "identical": true
+    },
+    {
+      "file": "figure-03-middle.png",
+      "identical": true
+    },
+    {
+      "file": "figure-01-median-dark.png",
+      "identical": true
+    },
+    {
+      "file": "figure-01-median.png",
+      "identical": true
+    },
+    {
+      "file": "figure-04-shape.png",
+      "identical": true
+    },
+    {
+      "file": "figure-02-promise.png",
+      "identical": true
+    },
+    {
+      "file": "figure-03-middle-dark.png",
+      "identical": true
+    }
+  ],
+  "note": "Pack analysis run from pack directory with relative paths; existing verified raw-source cache reused."
+}

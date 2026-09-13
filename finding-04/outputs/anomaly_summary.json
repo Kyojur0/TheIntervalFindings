@@ -1,0 +1,19 @@
+{
+  "source_count": 32,
+  "monthly_count": 29,
+  "pooled_rows": 136601,
+  "raw_retained_rows": 2032898,
+  "nonmonotonic_percentiles": 0,
+  "recoding_candidate_pairs": 2530,
+  "provider_presence_events": 203,
+  "provider_name_changes": 20,
+  "reconciliation_failures": 0,
+  "threshold_rule": "Absolute 28 month-on-month changes: Q3 + 1.5 IQR; pandas linear sample quantiles. Descriptive flags, not significance tests.",
+  "national_thresholds": {
+    "p50": 0.8967580182374979,
+    "p92": 1.2153790610750077,
+    "total": 93550.5
+  },
+  "modern_min_closed_share": 0.996254681648,
+  "baseline_min_closed_share": 0.998776421741
+}

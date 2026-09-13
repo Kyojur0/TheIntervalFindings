@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "source_files": 32,
+  "unit_tests": 13,
+  "report_claims_verified": 268,
+  "report_claims_wrong": 0,
+  "report_claims_unverifiable": 0,
+  "percentiles_checked": 1088,
+  "percentile_max_abs_difference_weeks": 4.999023417440185e-11,
+  "anomaly_items_responded": 13,
+  "anomaly_candidate_responses": 2753,
+  "figures": 8,
+  "relative_markdown_links_ok": true,
+  "no_absolute_user_paths": true,
+  "audited_report_hash_matches": true,
+  "figure_spec_unchanged": true,
+  "portable_replay": "18 CSVs and 8 PNGs reproduced byte-for-byte using cached raw inputs; see portable_replay_checks.json"
+}

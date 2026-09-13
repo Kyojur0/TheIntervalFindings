@@ -1,0 +1,273 @@
+period,part,kind,code,name,total,open_count,closed_share,all_below_p99_identifiable,published_percentile_in_open_band
+2019-02,Part_2,baseline,C_100,General surgery,317920,389,0.998776421741,True,False
+2019-02,Part_2,baseline,C_110,Trauma and orthopaedics,493564,496,0.99899506447,True,False
+2019-02,Part_2,baseline,C_120,ENT,293344,149,0.999492063925,True,False
+2019-02,Part_2,baseline,C_130,Ophthalmology,423742,141,0.999667250355,True,False
+2019-02,Part_2,baseline,C_301,Gastroenterology,219774,30,0.999863496137,True,False
+2019-02,Part_2,baseline,C_320,Cardiology,201406,87,0.999568036702,True,False
+2019-02,Part_2,baseline,C_400,Neurology,126174,22,0.999825637612,True,False
+2019-02,Part_2,baseline,C_999,"England, all specialties",4144110,1962,0.999526556969,True,False
+2025-02,Part_1A,full,C_100,General surgery,26283,15,0.999429288894,True,False
+2025-02,Part_1A,full,C_110,Trauma and orthopaedics,49200,23,0.999532520325,True,False
+2025-02,Part_1A,full,C_120,ENT,13734,15,0.998907820009,True,False
+2025-02,Part_1A,full,C_130,Ophthalmology,59564,12,0.999798536028,True,False
+2025-02,Part_1A,full,C_301,Gastroenterology,17699,13,0.999265495226,True,False
+2025-02,Part_1A,full,C_320,Cardiology,9740,15,0.998459958932,True,False
+2025-02,Part_1A,full,C_400,Neurology,701,0,1,True,False
+2025-02,Part_1A,full,C_999,"England, all specialties",310349,304,0.999020457614,True,False
+2025-02,Part_1B,full,C_100,General surgery,50698,53,0.99895459387,True,False
+2025-02,Part_1B,full,C_110,Trauma and orthopaedics,93103,93,0.999001106302,True,False
+2025-02,Part_1B,full,C_120,ENT,81613,52,0.999362846605,True,False
+2025-02,Part_1B,full,C_130,Ophthalmology,103539,92,0.999111445929,True,False
+2025-02,Part_1B,full,C_301,Gastroenterology,45959,52,0.998868556757,True,False
+2025-02,Part_1B,full,C_320,Cardiology,55135,34,0.999383331822,True,False
+2025-02,Part_1B,full,C_400,Neurology,31176,13,0.999583012574,True,False
+2025-02,Part_1B,full,C_999,"England, all specialties",1147295,764,0.999334085828,True,False
+2026-04,Part_1A,full,C_100,General surgery,24402,14,0.999426276535,True,False
+2026-04,Part_1A,full,C_110,Trauma and orthopaedics,45522,60,0.998681955977,True,False
+2026-04,Part_1A,full,C_120,ENT,12242,29,0.997631106028,True,False
+2026-04,Part_1A,full,C_130,Ophthalmology,52015,32,0.999384792848,True,False
+2026-04,Part_1A,full,C_301,Gastroenterology,16723,40,0.997608084674,True,False
+2026-04,Part_1A,full,C_320,Cardiology,9210,18,0.998045602606,True,False
+2026-04,Part_1A,full,C_400,Neurology,534,2,0.996254681648,True,False
+2026-04,Part_1A,full,C_999,"England, all specialties",287231,485,0.998311463596,True,False
+2026-04,Part_1B,full,C_100,General surgery,48325,24,0.999503362649,True,False
+2026-04,Part_1B,full,C_110,Trauma and orthopaedics,100697,90,0.99910622958,True,False
+2026-04,Part_1B,full,C_120,ENT,81545,72,0.999117051935,True,False
+2026-04,Part_1B,full,C_130,Ophthalmology,102331,83,0.999188906587,True,False
+2026-04,Part_1B,full,C_301,Gastroenterology,49124,31,0.999368943897,True,False
+2026-04,Part_1B,full,C_320,Cardiology,54589,38,0.999303889062,True,False
+2026-04,Part_1B,full,C_400,Neurology,30663,17,0.999445585885,True,False
+2026-04,Part_1B,full,C_999,"England, all specialties",1159840,787,0.999321458132,True,False
+2024-01,Part_2,monthly,C_100,General surgery,424169,10,0.999976424491,True,False
+2024-01,Part_2,monthly,C_110,Trauma and orthopaedics,849406,63,0.999925830522,True,False
+2024-01,Part_2,monthly,C_120,ENT,621169,11,0.999982291454,True,False
+2024-01,Part_2,monthly,C_130,Ophthalmology,605516,8,0.999986788128,True,False
+2024-01,Part_2,monthly,C_301,Gastroenterology,384402,2,0.999994797113,True,False
+2024-01,Part_2,monthly,C_320,Cardiology,398450,3,0.999992470824,True,False
+2024-01,Part_2,monthly,C_400,Neurology,234198,0,1,True,False
+2024-01,Part_2,monthly,C_999,"England, all specialties",7575914,376,0.999950369025,True,False
+2024-02,Part_2,monthly,C_100,General surgery,421906,19,0.999954966272,True,False
+2024-02,Part_2,monthly,C_110,Trauma and orthopaedics,842354,36,0.999957262624,True,False
+2024-02,Part_2,monthly,C_120,ENT,627870,19,0.999969738959,True,False
+2024-02,Part_2,monthly,C_130,Ophthalmology,607752,3,0.999995063776,True,False
+2024-02,Part_2,monthly,C_301,Gastroenterology,390450,3,0.999992316558,True,False
+2024-02,Part_2,monthly,C_320,Cardiology,399094,1,0.999997494325,True,False
+2024-02,Part_2,monthly,C_400,Neurology,233760,1,0.999995722108,True,False
+2024-02,Part_2,monthly,C_999,"England, all specialties",7536907,252,0.999966564534,True,False
+2024-03,Part_2,monthly,C_100,General surgery,421329,17,0.999959651484,True,False
+2024-03,Part_2,monthly,C_110,Trauma and orthopaedics,835449,28,0.999966485088,True,False
+2024-03,Part_2,monthly,C_120,ENT,639365,18,0.999971847067,True,False
+2024-03,Part_2,monthly,C_130,Ophthalmology,611342,3,0.999995092763,True,False
+2024-03,Part_2,monthly,C_301,Gastroenterology,390454,2,0.999994877758,True,False
+2024-03,Part_2,monthly,C_320,Cardiology,405304,1,0.999997532716,True,False
+2024-03,Part_2,monthly,C_400,Neurology,231781,1,0.999995685583,True,False
+2024-03,Part_2,monthly,C_999,"England, all specialties",7538830,232,0.999969225994,True,False
+2024-04,Part_2,monthly,C_100,General surgery,424237,10,0.99997642827,True,False
+2024-04,Part_2,monthly,C_110,Trauma and orthopaedics,832905,33,0.999960379635,True,False
+2024-04,Part_2,monthly,C_120,ENT,652244,17,0.999973936134,True,False
+2024-04,Part_2,monthly,C_130,Ophthalmology,613214,4,0.999993476992,True,False
+2024-04,Part_2,monthly,C_301,Gastroenterology,392168,2,0.999994900145,True,False
+2024-04,Part_2,monthly,C_320,Cardiology,410149,0,1,True,False
+2024-04,Part_2,monthly,C_400,Neurology,234119,2,0.999991457336,True,False
+2024-04,Part_2,monthly,C_999,"England, all specialties",7570371,275,0.999963674171,True,False
+2024-05,Part_2,monthly,C_100,General surgery,423275,8,0.999981099758,True,False
+2024-05,Part_2,monthly,C_110,Trauma and orthopaedics,837731,28,0.999966576383,True,False
+2024-05,Part_2,monthly,C_120,ENT,656628,6,0.999990862406,True,False
+2024-05,Part_2,monthly,C_130,Ophthalmology,613435,9,0.999985328519,True,False
+2024-05,Part_2,monthly,C_301,Gastroenterology,390517,1,0.999997439292,True,False
+2024-05,Part_2,monthly,C_320,Cardiology,412379,1,0.999997575046,True,False
+2024-05,Part_2,monthly,C_400,Neurology,234234,1,0.999995730765,True,False
+2024-05,Part_2,monthly,C_999,"England, all specialties",7601650,259,0.99996592845,True,False
+2024-06,Part_2,monthly,C_100,General surgery,423728,10,0.999976399955,True,False
+2024-06,Part_2,monthly,C_110,Trauma and orthopaedics,840043,18,0.999978572525,True,False
+2024-06,Part_2,monthly,C_120,ENT,658437,7,0.999989368763,True,False
+2024-06,Part_2,monthly,C_130,Ophthalmology,610276,8,0.999986891177,True,False
+2024-06,Part_2,monthly,C_301,Gastroenterology,390983,3,0.999992327032,True,False
+2024-06,Part_2,monthly,C_320,Cardiology,417312,0,1,True,False
+2024-06,Part_2,monthly,C_400,Neurology,234156,1,0.999995729343,True,False
+2024-06,Part_2,monthly,C_999,"England, all specialties",7621297,120,0.999984254649,True,False
+2024-07,Part_2,monthly,C_100,General surgery,419781,9,0.999978560249,True,False
+2024-07,Part_2,monthly,C_110,Trauma and orthopaedics,850977,17,0.999980022962,True,False
+2024-07,Part_2,monthly,C_120,ENT,657441,7,0.999989352657,True,False
+2024-07,Part_2,monthly,C_130,Ophthalmology,606819,1,0.999998352062,True,False
+2024-07,Part_2,monthly,C_301,Gastroenterology,389622,1,0.99999743341,True,False
+2024-07,Part_2,monthly,C_320,Cardiology,417864,0,1,True,False
+2024-07,Part_2,monthly,C_400,Neurology,235455,0,1,True,False
+2024-07,Part_2,monthly,C_999,"England, all specialties",7623081,107,0.999985963681,True,False
+2024-08,Part_2,monthly,C_100,General surgery,421682,10,0.999976285447,True,False
+2024-08,Part_2,monthly,C_110,Trauma and orthopaedics,853954,18,0.999978921581,True,False
+2024-08,Part_2,monthly,C_120,ENT,651027,7,0.999989247758,True,False
+2024-08,Part_2,monthly,C_130,Ophthalmology,608212,6,0.999990135019,True,False
+2024-08,Part_2,monthly,C_301,Gastroenterology,390702,0,1,True,False
+2024-08,Part_2,monthly,C_320,Cardiology,418669,1,0.999997611478,True,False
+2024-08,Part_2,monthly,C_400,Neurology,236621,1,0.999995773832,True,False
+2024-08,Part_2,monthly,C_999,"England, all specialties",7641774,124,0.999983773401,True,False
+2024-09,Part_2,monthly,C_100,General surgery,413805,7,0.99998308382,True,False
+2024-09,Part_2,monthly,C_110,Trauma and orthopaedics,851887,20,0.999976522708,True,False
+2024-09,Part_2,monthly,C_120,ENT,639967,2,0.999996874839,True,False
+2024-09,Part_2,monthly,C_130,Ophthalmology,600374,4,0.999993337486,True,False
+2024-09,Part_2,monthly,C_301,Gastroenterology,390251,2,0.999994875093,True,False
+2024-09,Part_2,monthly,C_320,Cardiology,412164,0,1,True,False
+2024-09,Part_2,monthly,C_400,Neurology,234720,0,1,True,False
+2024-09,Part_2,monthly,C_999,"England, all specialties",7571549,113,0.999985075709,True,False
+2024-10,Part_2,monthly,C_100,General surgery,412644,12,0.999970919243,True,False
+2024-10,Part_2,monthly,C_110,Trauma and orthopaedics,855660,27,0.999968445411,True,False
+2024-10,Part_2,monthly,C_120,ENT,637647,2,0.999996863468,True,False
+2024-10,Part_2,monthly,C_130,Ophthalmology,593842,8,0.999986528403,True,False
+2024-10,Part_2,monthly,C_301,Gastroenterology,392609,3,0.99999235881,True,False
+2024-10,Part_2,monthly,C_320,Cardiology,412017,2,0.999995145831,True,False
+2024-10,Part_2,monthly,C_400,Neurology,234414,1,0.999995734043,True,False
+2024-10,Part_2,monthly,C_999,"England, all specialties",7541371,148,0.999980374921,True,False
+2024-11,Part_2,monthly,C_100,General surgery,409066,9,0.99997799866,True,False
+2024-11,Part_2,monthly,C_110,Trauma and orthopaedics,853875,27,0.999968379447,True,False
+2024-11,Part_2,monthly,C_120,ENT,633270,4,0.999993683579,True,False
+2024-11,Part_2,monthly,C_130,Ophthalmology,583645,10,0.999982866297,True,False
+2024-11,Part_2,monthly,C_301,Gastroenterology,392808,4,0.999989816908,True,False
+2024-11,Part_2,monthly,C_320,Cardiology,411612,5,0.999987852638,True,False
+2024-11,Part_2,monthly,C_400,Neurology,234563,1,0.999995736753,True,False
+2024-11,Part_2,monthly,C_999,"England, all specialties",7479867,151,0.999979812475,True,False
+2024-12,Part_2,monthly,C_100,General surgery,407980,8,0.999980391196,True,False
+2024-12,Part_2,monthly,C_110,Trauma and orthopaedics,853202,30,0.999964838338,True,False
+2024-12,Part_2,monthly,C_120,ENT,633387,5,0.999992105932,True,False
+2024-12,Part_2,monthly,C_130,Ophthalmology,589336,5,0.999991515875,True,False
+2024-12,Part_2,monthly,C_301,Gastroenterology,396642,13,0.999967224853,True,False
+2024-12,Part_2,monthly,C_320,Cardiology,412953,2,0.999995156834,True,False
+2024-12,Part_2,monthly,C_400,Neurology,233555,0,1,True,False
+2024-12,Part_2,monthly,C_999,"England, all specialties",7463085,155,0.999979231109,True,False
+2025-01,Part_2,monthly,C_100,General surgery,406921,7,0.999982797644,True,False
+2025-01,Part_2,monthly,C_110,Trauma and orthopaedics,847963,29,0.999965800395,True,False
+2025-01,Part_2,monthly,C_120,ENT,637631,7,0.999989021864,True,False
+2025-01,Part_2,monthly,C_130,Ophthalmology,579892,2,0.999996551082,True,False
+2025-01,Part_2,monthly,C_301,Gastroenterology,395862,3,0.999992421601,True,False
+2025-01,Part_2,monthly,C_320,Cardiology,415196,2,0.999995182998,True,False
+2025-01,Part_2,monthly,C_400,Neurology,232985,0,1,True,False
+2025-01,Part_2,monthly,C_999,"England, all specialties",7427669,139,0.999981286188,True,False
+2025-02,Part_2,monthly,C_100,General surgery,407640,31,0.999923952507,True,False
+2025-02,Part_2,monthly,C_110,Trauma and orthopaedics,841700,20,0.999976238565,True,False
+2025-02,Part_2,monthly,C_120,ENT,634084,7,0.999988960453,True,False
+2025-02,Part_2,monthly,C_130,Ophthalmology,582395,2,0.999996565905,True,False
+2025-02,Part_2,monthly,C_301,Gastroenterology,394200,2,0.999994926433,True,False
+2025-02,Part_2,monthly,C_320,Cardiology,411581,3,0.999992711034,True,False
+2025-02,Part_2,monthly,C_400,Neurology,229775,0,1,True,False
+2025-02,Part_2,monthly,C_999,"England, all specialties",7401153,161,0.999978246633,True,False
+2025-03,Part_2,monthly,C_100,General surgery,403986,16,0.999960394667,True,False
+2025-03,Part_2,monthly,C_110,Trauma and orthopaedics,843066,21,0.999975090918,True,False
+2025-03,Part_2,monthly,C_120,ENT,637737,5,0.999992159777,True,False
+2025-03,Part_2,monthly,C_130,Ophthalmology,586084,6,0.99998976256,True,False
+2025-03,Part_2,monthly,C_301,Gastroenterology,395202,6,0.999984817891,True,False
+2025-03,Part_2,monthly,C_320,Cardiology,415194,4,0.999990365949,True,False
+2025-03,Part_2,monthly,C_400,Neurology,226120,1,0.999995577569,True,False
+2025-03,Part_2,monthly,C_999,"England, all specialties",7418598,147,0.999980184935,True,False
+2025-04,Part_2,monthly,C_100,General surgery,397004,19,0.99995214154,True,False
+2025-04,Part_2,monthly,C_110,Trauma and orthopaedics,844120,28,0.999966829361,True,False
+2025-04,Part_2,monthly,C_120,ENT,638914,6,0.999990609065,True,False
+2025-04,Part_2,monthly,C_130,Ophthalmology,588639,5,0.99999150583,True,False
+2025-04,Part_2,monthly,C_301,Gastroenterology,387015,10,0.999974161208,True,False
+2025-04,Part_2,monthly,C_320,Cardiology,409020,1,0.999997555132,True,False
+2025-04,Part_2,monthly,C_400,Neurology,223699,0,1,True,False
+2025-04,Part_2,monthly,C_999,"England, all specialties",7389065,171,0.999976857694,True,False
+2025-05,Part_2,monthly,C_100,General surgery,394228,17,0.999956877746,True,False
+2025-05,Part_2,monthly,C_110,Trauma and orthopaedics,843398,27,0.999967986645,True,False
+2025-05,Part_2,monthly,C_120,ENT,636238,4,0.999993713044,True,False
+2025-05,Part_2,monthly,C_130,Ophthalmology,589546,3,0.999994911339,True,False
+2025-05,Part_2,monthly,C_301,Gastroenterology,376849,21,0.999944274763,True,False
+2025-05,Part_2,monthly,C_320,Cardiology,400038,1,0.999997500237,True,False
+2025-05,Part_2,monthly,C_400,Neurology,222406,0,1,True,False
+2025-05,Part_2,monthly,C_999,"England, all specialties",7355950,160,0.999978248901,True,False
+2025-06,Part_2,monthly,C_100,General surgery,394989,15,0.999962024259,True,False
+2025-06,Part_2,monthly,C_110,Trauma and orthopaedics,848356,26,0.999969352489,True,False
+2025-06,Part_2,monthly,C_120,ENT,635920,7,0.999988992326,True,False
+2025-06,Part_2,monthly,C_130,Ophthalmology,592361,8,0.999986494722,True,False
+2025-06,Part_2,monthly,C_301,Gastroenterology,373867,42,0.999887660585,True,False
+2025-06,Part_2,monthly,C_320,Cardiology,395307,2,0.999994940641,True,False
+2025-06,Part_2,monthly,C_400,Neurology,222585,1,0.999995507334,True,False
+2025-06,Part_2,monthly,C_999,"England, all specialties",7367836,182,0.999975298039,True,False
+2025-07,Part_2,monthly,C_100,General surgery,395120,18,0.999954444219,True,False
+2025-07,Part_2,monthly,C_110,Trauma and orthopaedics,847453,43,0.999949259723,True,False
+2025-07,Part_2,monthly,C_120,ENT,628560,15,0.99997613593,True,False
+2025-07,Part_2,monthly,C_130,Ophthalmology,585619,5,0.999991462026,True,False
+2025-07,Part_2,monthly,C_301,Gastroenterology,374892,62,0.999834619037,True,False
+2025-07,Part_2,monthly,C_320,Cardiology,388296,1,0.999997424645,True,False
+2025-07,Part_2,monthly,C_400,Neurology,218289,0,1,True,False
+2025-07,Part_2,monthly,C_999,"England, all specialties",7299023,244,0.999966570868,True,False
+2025-08,Part_2,monthly,C_100,General surgery,395490,20,0.999949429821,True,False
+2025-08,Part_2,monthly,C_110,Trauma and orthopaedics,856471,32,0.999962637381,True,False
+2025-08,Part_2,monthly,C_120,ENT,623636,13,0.999979154507,True,False
+2025-08,Part_2,monthly,C_130,Ophthalmology,587377,2,0.999996595032,True,False
+2025-08,Part_2,monthly,C_301,Gastroenterology,377569,1,0.999997351477,True,False
+2025-08,Part_2,monthly,C_320,Cardiology,386717,0,1,True,False
+2025-08,Part_2,monthly,C_400,Neurology,219135,0,1,True,False
+2025-08,Part_2,monthly,C_999,"England, all specialties",7312356,168,0.999977025189,True,False
+2025-09,Part_2,monthly,C_100,General surgery,393730,9,0.999977141696,True,False
+2025-09,Part_2,monthly,C_110,Trauma and orthopaedics,860865,34,0.999960504841,True,False
+2025-09,Part_2,monthly,C_120,ENT,617531,13,0.999978948425,True,False
+2025-09,Part_2,monthly,C_130,Ophthalmology,589819,3,0.999994913694,True,False
+2025-09,Part_2,monthly,C_301,Gastroenterology,379599,0,1,True,False
+2025-09,Part_2,monthly,C_320,Cardiology,388454,0,1,True,False
+2025-09,Part_2,monthly,C_400,Neurology,219221,1,0.999995438393,True,False
+2025-09,Part_2,monthly,C_999,"England, all specialties",7296893,150,0.999979443306,True,False
+2025-10,Part_2,monthly,C_100,General surgery,391493,9,0.999977011083,True,False
+2025-10,Part_2,monthly,C_110,Trauma and orthopaedics,858898,30,0.999965071522,True,False
+2025-10,Part_2,monthly,C_120,ENT,613974,25,0.999959281663,True,False
+2025-10,Part_2,monthly,C_130,Ophthalmology,598593,5,0.999991647079,True,False
+2025-10,Part_2,monthly,C_301,Gastroenterology,382448,0,1,True,False
+2025-10,Part_2,monthly,C_320,Cardiology,387527,5,0.999987097673,True,False
+2025-10,Part_2,monthly,C_400,Neurology,221595,2,0.999990974526,True,False
+2025-10,Part_2,monthly,C_999,"England, all specialties",7304189,172,0.999976451869,True,False
+2025-11,Part_2,monthly,C_100,General surgery,381272,15,0.999960658008,True,False
+2025-11,Part_2,monthly,C_110,Trauma and orthopaedics,845411,40,0.999952685735,True,False
+2025-11,Part_2,monthly,C_120,ENT,588429,24,0.999959213431,True,False
+2025-11,Part_2,monthly,C_130,Ophthalmology,597880,3,0.999994982271,True,False
+2025-11,Part_2,monthly,C_301,Gastroenterology,375368,2,0.999994671895,True,False
+2025-11,Part_2,monthly,C_320,Cardiology,383624,2,0.999994786562,True,False
+2025-11,Part_2,monthly,C_400,Neurology,216244,0,1,True,False
+2025-11,Part_2,monthly,C_999,"England, all specialties",7159010,177,0.999975275911,True,False
+2025-12,Part_2,monthly,C_100,General surgery,385548,8,0.999979250314,True,False
+2025-12,Part_2,monthly,C_110,Trauma and orthopaedics,844356,14,0.999983419316,True,False
+2025-12,Part_2,monthly,C_120,ENT,589602,73,0.999876187666,True,False
+2025-12,Part_2,monthly,C_130,Ophthalmology,601191,2,0.99999667327,True,False
+2025-12,Part_2,monthly,C_301,Gastroenterology,381239,14,0.999963277629,True,False
+2025-12,Part_2,monthly,C_320,Cardiology,386709,22,0.999943109677,True,False
+2025-12,Part_2,monthly,C_400,Neurology,219866,1,0.999995451775,True,False
+2025-12,Part_2,monthly,C_999,"England, all specialties",7199624,223,0.99996902616,True,False
+2026-01,Part_2,monthly,C_100,General surgery,386068,7,0.999981868479,True,False
+2026-01,Part_2,monthly,C_110,Trauma and orthopaedics,836764,35,0.999958172197,True,False
+2026-01,Part_2,monthly,C_120,ENT,587673,50,0.999914918671,True,False
+2026-01,Part_2,monthly,C_130,Ophthalmology,596635,5,0.999991619667,True,False
+2026-01,Part_2,monthly,C_301,Gastroenterology,383007,7,0.999981723572,True,False
+2026-01,Part_2,monthly,C_320,Cardiology,383680,25,0.999934841535,True,False
+2026-01,Part_2,monthly,C_400,Neurology,216423,0,1,True,False
+2026-01,Part_2,monthly,C_999,"England, all specialties",7155958,200,0.999972051261,True,False
+2026-02,Part_2,monthly,C_100,General surgery,384999,5,0.999987012953,True,False
+2026-02,Part_2,monthly,C_110,Trauma and orthopaedics,829478,42,0.999949365746,True,False
+2026-02,Part_2,monthly,C_120,ENT,586374,33,0.999943721925,True,False
+2026-02,Part_2,monthly,C_130,Ophthalmology,600584,2,0.999996669908,True,False
+2026-02,Part_2,monthly,C_301,Gastroenterology,378852,4,0.999989441787,True,False
+2026-02,Part_2,monthly,C_320,Cardiology,381409,28,0.999926587993,True,False
+2026-02,Part_2,monthly,C_400,Neurology,213567,0,1,True,False
+2026-02,Part_2,monthly,C_999,"England, all specialties",7124952,189,0.999973473506,True,False
+2026-03,Part_2,monthly,C_100,General surgery,376204,7,0.999981393074,True,False
+2026-03,Part_2,monthly,C_110,Trauma and orthopaedics,818003,34,0.99995843536,True,False
+2026-03,Part_2,monthly,C_120,ENT,579154,22,0.999962013558,True,False
+2026-03,Part_2,monthly,C_130,Ophthalmology,602030,4,0.999993355813,True,False
+2026-03,Part_2,monthly,C_301,Gastroenterology,366257,4,0.999989078707,True,False
+2026-03,Part_2,monthly,C_320,Cardiology,374433,15,0.999959939428,True,False
+2026-03,Part_2,monthly,C_400,Neurology,205988,0,1,True,False
+2026-03,Part_2,monthly,C_999,"England, all specialties",7014835,154,0.999978046526,True,False
+2026-04,Part_2,monthly,C_100,General surgery,381808,7,0.999981666178,True,False
+2026-04,Part_2,monthly,C_110,Trauma and orthopaedics,819951,42,0.999948777427,True,False
+2026-04,Part_2,monthly,C_120,ENT,588278,18,0.999969402221,True,False
+2026-04,Part_2,monthly,C_130,Ophthalmology,610708,5,0.999991812781,True,False
+2026-04,Part_2,monthly,C_301,Gastroenterology,371537,3,0.999991925434,True,False
+2026-04,Part_2,monthly,C_320,Cardiology,377359,14,0.99996290005,True,False
+2026-04,Part_2,monthly,C_400,Neurology,206659,1,0.999995161111,True,False
+2026-04,Part_2,monthly,C_999,"England, all specialties",7093502,191,0.999973073949,True,False
+2026-05,Part_2,monthly,C_100,General surgery,381497,7,0.999981651232,True,False
+2026-05,Part_2,monthly,C_110,Trauma and orthopaedics,827960,46,0.99994444176,True,False
+2026-05,Part_2,monthly,C_120,ENT,594331,12,0.999979809231,True,False
+2026-05,Part_2,monthly,C_130,Ophthalmology,624531,5,0.999991993992,True,False
+2026-05,Part_2,monthly,C_301,Gastroenterology,370047,4,0.999989190562,True,False
+2026-05,Part_2,monthly,C_320,Cardiology,378421,0,1,True,False
+2026-05,Part_2,monthly,C_400,Neurology,207581,0,1,True,False
+2026-05,Part_2,monthly,C_999,"England, all specialties",7153655,177,0.999975257403,True,False

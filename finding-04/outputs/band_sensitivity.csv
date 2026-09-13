@@ -1,0 +1,1089 @@
+period,part,kind,code,name,release,percentile,linear,lower_bound,midpoint,upper_bound,lower_minus_linear,midpoint_minus_linear
+2019-02,Part_2,baseline,C_999,"England, all specialties",revised-or-established,50,6.6915701827,6,6.5,7,-0.691570182701,-0.191570182701
+2019-02,Part_2,baseline,C_999,"England, all specialties",revised-or-established,75,13.4344227489,13,13.5,14,-0.434422748871,0.0655772511293
+2019-02,Part_2,baseline,C_999,"England, all specialties",revised-or-established,92,22.0644396493,22,22.5,23,-0.0644396492857,0.435560350714
+2019-02,Part_2,baseline,C_999,"England, all specialties",revised-or-established,95,26.0124455338,26,26.5,27,-0.0124455337691,0.487554466231
+2019-02,Part_2,baseline,C_100,General surgery,revised-or-established,50,6.83375104428,6,6.5,7,-0.833751044277,-0.333751044277
+2019-02,Part_2,baseline,C_100,General surgery,revised-or-established,75,14.1511335013,14,14.5,15,-0.151133501259,0.348866498741
+2019-02,Part_2,baseline,C_100,General surgery,revised-or-established,92,24.5884361661,24,24.5,25,-0.588436166085,-0.0884361660846
+2019-02,Part_2,baseline,C_100,General surgery,revised-or-established,95,29.2999410725,29,29.5,30,-0.299941072481,0.200058927519
+2019-02,Part_2,baseline,C_110,Trauma and orthopaedics,revised-or-established,50,7.30079806125,7,7.5,8,-0.300798061254,0.199201938746
+2019-02,Part_2,baseline,C_110,Trauma and orthopaedics,revised-or-established,75,14.6844947965,14,14.5,15,-0.68449479647,-0.18449479647
+2019-02,Part_2,baseline,C_110,Trauma and orthopaedics,revised-or-established,92,24.7946458739,24,24.5,25,-0.794645873944,-0.294645873944
+2019-02,Part_2,baseline,C_110,Trauma and orthopaedics,revised-or-established,95,29.1893733968,29,29.5,30,-0.189373396849,0.310626603151
+2019-02,Part_2,baseline,C_120,ENT,revised-or-established,50,6.99987636768,6,6.5,7,-0.999876367683,-0.499876367683
+2019-02,Part_2,baseline,C_120,ENT,revised-or-established,75,14.0832939509,14,14.5,15,-0.0832939508507,0.416706049149
+2019-02,Part_2,baseline,C_120,ENT,revised-or-established,92,23.5995365169,23,23.5,24,-0.599536516854,-0.0995365168539
+2019-02,Part_2,baseline,C_120,ENT,revised-or-established,95,28.0892367906,28,28.5,29,-0.0892367906066,0.410763209393
+2019-02,Part_2,baseline,C_130,Ophthalmology,revised-or-established,50,6.88075429839,6,6.5,7,-0.880754298392,-0.380754298392
+2019-02,Part_2,baseline,C_130,Ophthalmology,revised-or-established,75,13.8275508762,13,13.5,14,-0.827550876201,-0.327550876201
+2019-02,Part_2,baseline,C_130,Ophthalmology,revised-or-established,92,22.140881295,22,22.5,23,-0.140881294964,0.359118705036
+2019-02,Part_2,baseline,C_130,Ophthalmology,revised-or-established,95,25.5173720137,25,25.5,26,-0.517372013652,-0.0173720136519
+2019-02,Part_2,baseline,C_301,Gastroenterology,revised-or-established,50,6.54440063091,6,6.5,7,-0.544400630915,-0.0444006309148
+2019-02,Part_2,baseline,C_301,Gastroenterology,revised-or-established,75,12.9309355154,12,12.5,13,-0.930935515388,-0.430935515388
+2019-02,Part_2,baseline,C_301,Gastroenterology,revised-or-established,92,20.8587401575,20,20.5,21,-0.85874015748,-0.35874015748
+2019-02,Part_2,baseline,C_301,Gastroenterology,revised-or-established,95,24.5817862166,24,24.5,25,-0.581786216596,-0.0817862165963
+2019-02,Part_2,baseline,C_320,Cardiology,revised-or-established,50,6.77374769643,6,6.5,7,-0.773747696432,-0.273747696432
+2019-02,Part_2,baseline,C_320,Cardiology,revised-or-established,75,12.8220854922,12,12.5,13,-0.822085492228,-0.322085492228
+2019-02,Part_2,baseline,C_320,Cardiology,revised-or-established,92,19.755131744,19,19.5,20,-0.75513174404,-0.25513174404
+2019-02,Part_2,baseline,C_320,Cardiology,revised-or-established,95,23.1468796434,23,23.5,24,-0.146879643388,0.353120356612
+2019-02,Part_2,baseline,C_400,Neurology,revised-or-established,50,7.59065113501,7,7.5,8,-0.590651135006,-0.090651135006
+2019-02,Part_2,baseline,C_400,Neurology,revised-or-established,75,14.0949530516,14,14.5,15,-0.0949530516432,0.405046948357
+2019-02,Part_2,baseline,C_400,Neurology,revised-or-established,92,22.1303276131,22,22.5,23,-0.130327613105,0.369672386895
+2019-02,Part_2,baseline,C_400,Neurology,revised-or-established,95,25.6046223224,25,25.5,26,-0.604622322435,-0.104622322435
+2024-01,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,15.0395728511,15,15.5,16,-0.0395728510979,0.460427148902
+2024-01,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,28.5058518566,28,28.5,29,-0.505851856593,-0.00585185659294
+2024-01,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,45.2683845915,45,45.5,46,-0.268384591488,0.231615408512
+2024-01,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,50.3807723533,50,50.5,51,-0.380772353323,0.119227646677
+2024-01,Part_2,monthly,C_100,General surgery,revised-or-established,50,15.7953076019,15,15.5,16,-0.795307601881,-0.295307601881
+2024-01,Part_2,monthly,C_100,General surgery,revised-or-established,75,29.8323659254,29,29.5,30,-0.832365925441,-0.332365925441
+2024-01,Part_2,monthly,C_100,General surgery,revised-or-established,92,47.3433642195,47,47.5,48,-0.34336421953,0.15663578047
+2024-01,Part_2,monthly,C_100,General surgery,revised-or-established,95,52.7747614264,52,52.5,53,-0.774761426419,-0.274761426419
+2024-01,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,16.1496002681,16,16.5,17,-0.149600268084,0.350399731916
+2024-01,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,29.8394626298,29,29.5,30,-0.839462629785,-0.339462629785
+2024-01,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,47.4510968715,47,47.5,48,-0.451096871466,0.0489031285337
+2024-01,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,53.1949620039,53,53.5,54,-0.19496200394,0.30503799606
+2024-01,Part_2,monthly,C_120,ENT,revised-or-established,50,18.8328610783,18,18.5,19,-0.832861078316,-0.332861078316
+2024-01,Part_2,monthly,C_120,ENT,revised-or-established,75,33.8180106101,33,33.5,34,-0.81801061008,-0.31801061008
+2024-01,Part_2,monthly,C_120,ENT,revised-or-established,92,49.5039317735,49,49.5,50,-0.503931773453,-0.00393177345287
+2024-01,Part_2,monthly,C_120,ENT,revised-or-established,95,54.1273131127,54,54.5,55,-0.127313112745,0.372686887255
+2024-01,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,12.6132581258,12,12.5,13,-0.613258125768,-0.113258125768
+2024-01,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,24.5495407888,24,24.5,25,-0.549540788763,-0.0495407887628
+2024-01,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,40.2708121711,40,40.5,41,-0.270812171128,0.229187828872
+2024-01,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,45.5269279393,45,45.5,46,-0.526927939317,-0.0269279393173
+2024-01,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,14.1336463224,14,14.5,15,-0.133646322379,0.366353677621
+2024-01,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,27.2497226331,27,27.5,28,-0.249722633136,0.250277366864
+2024-01,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,44.2008196063,44,44.5,45,-0.200819606268,0.299180393732
+2024-01,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,49.2507786429,49,49.5,50,-0.250778642937,0.249221357063
+2024-01,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.1139014296,14,14.5,15,-0.113901429646,0.386098570354
+2024-01,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.2023458133,26,26.5,27,-0.202345813267,0.297654186733
+2024-01,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.1285255266,41,41.5,42,-0.128525526598,0.371474473402
+2024-01,Part_2,monthly,C_320,Cardiology,revised-or-established,95,46.188727783,46,46.5,47,-0.188727782975,0.311272217025
+2024-01,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.4827223294,16,16.5,17,-0.482722329416,0.0172776705841
+2024-01,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.2744168162,29,29.5,30,-0.274416816201,0.225583183799
+2024-01,Part_2,monthly,C_400,Neurology,revised-or-established,92,44.0317814208,44,44.5,45,-0.031781420765,0.468218579235
+2024-01,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.5173657101,48,48.5,49,-0.517365710081,-0.0173657100809
+2024-02,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.7854880885,14,14.5,15,-0.785488088546,-0.285488088546
+2024-02,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,28.1973636615,28,28.5,29,-0.19736366146,0.30263633854
+2024-02,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,44.6293613659,44,44.5,45,-0.62936136585,-0.12936136585
+2024-02,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,50.0046272809,50,50.5,51,-0.00462728090989,0.49537271909
+2024-02,Part_2,monthly,C_100,General surgery,revised-or-established,50,15.5613038278,15,15.5,16,-0.561303827751,-0.0613038277512
+2024-02,Part_2,monthly,C_100,General surgery,revised-or-established,75,29.7243513651,29,29.5,30,-0.724351365101,-0.224351365101
+2024-02,Part_2,monthly,C_100,General surgery,revised-or-established,92,47.0085527273,47,47.5,48,-0.00855272727274,0.491447272727
+2024-02,Part_2,monthly,C_100,General surgery,revised-or-established,95,52.3013106796,52,52.5,53,-0.301310679612,0.198689320388
+2024-02,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,16.1578947368,16,16.5,17,-0.157894736842,0.342105263158
+2024-02,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,29.945572264,29,29.5,30,-0.945572263993,-0.445572263993
+2024-02,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,47.1855942468,47,47.5,48,-0.185594246783,0.314405753217
+2024-02,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,52.664344473,52,52.5,53,-0.664344473008,-0.164344473008
+2024-02,Part_2,monthly,C_120,ENT,revised-or-established,50,18.4095207565,18,18.5,19,-0.409520756531,0.0904792434685
+2024-02,Part_2,monthly,C_120,ENT,revised-or-established,75,33.5901839776,33,33.5,34,-0.590183977643,-0.0901839776432
+2024-02,Part_2,monthly,C_120,ENT,revised-or-established,92,49.6064617809,49,49.5,50,-0.60646178093,-0.10646178093
+2024-02,Part_2,monthly,C_120,ENT,revised-or-established,95,54.0118263473,54,54.5,55,-0.0118263473054,0.488173652695
+2024-02,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,12.3511010862,12,12.5,13,-0.351101086247,0.148898913753
+2024-02,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,24.0128107697,24,24.5,25,-0.0128107697318,0.487189230268
+2024-02,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,40.2793176783,40,40.5,41,-0.279317678334,0.220682321666
+2024-02,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,45.2517219388,45,45.5,46,-0.251721938776,0.248278061224
+2024-02,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.9589605907,13,13.5,14,-0.958960590661,-0.458960590661
+2024-02,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,26.8080797022,26,26.5,27,-0.808079702212,-0.308079702212
+2024-02,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,43.3210202287,43,43.5,44,-0.321020228672,0.178979771328
+2024-02,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,48.8900851277,48,48.5,49,-0.890085127692,-0.390085127692
+2024-02,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.1242443382,14,14.5,15,-0.124244338176,0.375755661824
+2024-02,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.9422869471,25,25.5,26,-0.942286947141,-0.442286947141
+2024-02,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.0672945892,41,41.5,42,-0.0672945891784,0.432705410822
+2024-02,Part_2,monthly,C_320,Cardiology,revised-or-established,95,45.9325206992,45,45.5,46,-0.932520699172,-0.432520699172
+2024-02,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.563042028,16,16.5,17,-0.563042028019,-0.0630420280187
+2024-02,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.5114822547,29,29.5,30,-0.511482254697,-0.0114822546973
+2024-02,Part_2,monthly,C_400,Neurology,revised-or-established,92,43.6113977205,43,43.5,44,-0.611397720456,-0.111397720456
+2024-02,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.3704797048,48,48.5,49,-0.370479704797,0.129520295203
+2024-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.8694465445,14,14.5,15,-0.869446544517,-0.369446544517
+2024-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,28.0497385388,28,28.5,29,-0.0497385388162,0.450261461184
+2024-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,44.6696371692,44,44.5,45,-0.669637169244,-0.169637169244
+2024-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,49.7384971987,49,49.5,50,-0.738497198671,-0.238497198671
+2024-03,Part_2,monthly,C_100,General surgery,revised-or-established,50,15.5867421096,15,15.5,16,-0.586742109635,-0.0867421096346
+2024-03,Part_2,monthly,C_100,General surgery,revised-or-established,75,29.5042544229,29,29.5,30,-0.504254422915,-0.00425442291491
+2024-03,Part_2,monthly,C_100,General surgery,revised-or-established,92,46.3215881262,46,46.5,47,-0.32158812616,0.17841187384
+2024-03,Part_2,monthly,C_100,General surgery,revised-or-established,95,51.9596327684,51,51.5,52,-0.959632768362,-0.459632768362
+2024-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,16.4293242562,16,16.5,17,-0.429324256178,0.0706757438225
+2024-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,29.8023754056,29,29.5,30,-0.802375405608,-0.302375405608
+2024-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,46.6356073474,46,46.5,47,-0.635607347422,-0.135607347422
+2024-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,52.329462972,52,52.5,53,-0.329462972045,0.170537027955
+2024-03,Part_2,monthly,C_120,ENT,revised-or-established,50,18.4812509101,18,18.5,19,-0.48125091015,0.01874908985
+2024-03,Part_2,monthly,C_120,ENT,revised-or-established,75,33.5773059253,33,33.5,34,-0.577305925315,-0.0773059253151
+2024-03,Part_2,monthly,C_120,ENT,revised-or-established,92,49.856855151,49,49.5,50,-0.856855151046,-0.356855151046
+2024-03,Part_2,monthly,C_120,ENT,revised-or-established,95,54.6158890116,54,54.5,55,-0.615889011596,-0.115889011596
+2024-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.2310857143,11,11.5,12,-0.231085714286,0.268914285714
+2024-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,24.1449017011,24,24.5,25,-0.144901701131,0.355098298869
+2024-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,40.5795094863,40,40.5,41,-0.579509486349,-0.0795094863489
+2024-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,45.5673344948,45,45.5,46,-0.567334494774,-0.0673344947735
+2024-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,14.0621964097,14,14.5,15,-0.0621964097149,0.437803590285
+2024-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,26.9117852771,26,26.5,27,-0.911785277146,-0.411785277146
+2024-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,43.1894101756,43,43.5,44,-0.189410175597,0.310589824403
+2024-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,48.550334608,48,48.5,49,-0.550334608031,-0.0503346080306
+2024-03,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.273618044,14,14.5,15,-0.273618044001,0.226381955999
+2024-03,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.2309033281,26,26.5,27,-0.230903328051,0.269096671949
+2024-03,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.4666489362,41,41.5,42,-0.46664893617,0.0333510638298
+2024-03,Part_2,monthly,C_320,Cardiology,revised-or-established,95,46.295607763,46,46.5,47,-0.295607763023,0.204392236977
+2024-03,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.8564930432,16,16.5,17,-0.856493043168,-0.356493043168
+2024-03,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.6512134002,29,29.5,30,-0.651213400158,-0.151213400158
+2024-03,Part_2,monthly,C_400,Neurology,revised-or-established,92,43.931270037,43,43.5,44,-0.931270036991,-0.431270036991
+2024-03,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.0279712339,48,48.5,49,-0.0279712339137,0.472028766086
+2024-04,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.9131996563,13,13.5,14,-0.913199656344,-0.413199656344
+2024-04,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,28.0163241271,28,28.5,29,-0.0163241271014,0.483675872899
+2024-04,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,44.7625742611,44,44.5,45,-0.762574261095,-0.262574261095
+2024-04,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,49.8201718523,49,49.5,50,-0.820171852345,-0.320171852345
+2024-04,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.5639393645,14,14.5,15,-0.563939364493,-0.0639393644932
+2024-04,Part_2,monthly,C_100,General surgery,revised-or-established,75,29.3579771587,29,29.5,30,-0.357977158678,0.142022841322
+2024-04,Part_2,monthly,C_100,General surgery,revised-or-established,92,46.342841455,46,46.5,47,-0.342841455045,0.157158544955
+2024-04,Part_2,monthly,C_100,General surgery,revised-or-established,95,51.3103327966,51,51.5,52,-0.310332796565,0.189667203435
+2024-04,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,15.3390415993,15,15.5,16,-0.339041599294,0.160958400706
+2024-04,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,29.8895470529,29,29.5,30,-0.889547052914,-0.389547052914
+2024-04,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,46.7264356753,46,46.5,47,-0.726435675329,-0.226435675329
+2024-04,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,51.9164164847,51,51.5,52,-0.916416484716,-0.416416484716
+2024-04,Part_2,monthly,C_120,ENT,revised-or-established,50,17.8181947608,17,17.5,18,-0.81819476082,-0.31819476082
+2024-04,Part_2,monthly,C_120,ENT,revised-or-established,75,32.9286770561,32,32.5,33,-0.92867705608,-0.42867705608
+2024-04,Part_2,monthly,C_120,ENT,revised-or-established,92,50.1888893352,50,50.5,51,-0.188889335208,0.311110664792
+2024-04,Part_2,monthly,C_120,ENT,revised-or-established,95,55.2994690265,55,55.5,56,-0.299469026549,0.200530973451
+2024-04,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.3272746431,11,11.5,12,-0.327274643064,0.172725356936
+2024-04,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,23.9911982705,23,23.5,24,-0.991198270537,-0.491198270537
+2024-04,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,40.4624819028,40,40.5,41,-0.462481902792,0.0375180972079
+2024-04,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,45.7140147862,45,45.5,46,-0.714014786242,-0.214014786242
+2024-04,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.0984123948,13,13.5,14,-0.0984123947972,0.401587605203
+2024-04,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,26.6254722072,26,26.5,27,-0.625472207232,-0.125472207232
+2024-04,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,42.8664835562,42,42.5,43,-0.866483556198,-0.366483556198
+2024-04,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,47.9840038314,47,47.5,48,-0.984003831418,-0.484003831418
+2024-04,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.4315445026,13,13.5,14,-0.431544502618,0.0684554973822
+2024-04,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.0994740357,26,26.5,27,-0.0994740357322,0.400525964268
+2024-04,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.5525876011,41,41.5,42,-0.552587601078,-0.0525876010782
+2024-04,Part_2,monthly,C_320,Cardiology,revised-or-established,95,46.1891807229,46,46.5,47,-0.189180722892,0.310819277108
+2024-04,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.9544603337,15,15.5,16,-0.954460333674,-0.454460333674
+2024-04,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.9981810833,29,29.5,30,-0.998181083266,-0.498181083266
+2024-04,Part_2,monthly,C_400,Neurology,revised-or-established,92,44.2689122807,44,44.5,45,-0.268912280702,0.231087719298
+2024-04,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.3349526066,48,48.5,49,-0.334952606635,0.165047393365
+2024-05,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.2035131069,14,14.5,15,-0.203513106949,0.296486893051
+2024-05,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,28.1169965724,28,28.5,29,-0.116996572448,0.383003427552
+2024-05,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,44.9509091943,44,44.5,45,-0.950909194334,-0.450909194334
+2024-05,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,49.9985136519,49,49.5,50,-0.99851365192,-0.49851365192
+2024-05,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.9512230216,14,14.5,15,-0.951223021583,-0.451223021583
+2024-05,Part_2,monthly,C_100,General surgery,revised-or-established,75,29.5154431896,29,29.5,30,-0.515443189596,-0.0154431895962
+2024-05,Part_2,monthly,C_100,General surgery,revised-or-established,92,46.4941176471,46,46.5,47,-0.494117647059,0.00588235294118
+2024-05,Part_2,monthly,C_100,General surgery,revised-or-established,95,51.4122164461,51,51.5,52,-0.412216446125,0.0877835538752
+2024-05,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,15.4352060117,15,15.5,16,-0.435206011655,0.0647939883447
+2024-05,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,29.9783685876,29,29.5,30,-0.978368587608,-0.478368587608
+2024-05,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,47.1905751133,47,47.5,48,-0.19057511328,0.30942488672
+2024-05,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,52.1701519069,52,52.5,53,-0.170151906917,0.329848093083
+2024-05,Part_2,monthly,C_120,ENT,revised-or-established,50,17.6282674373,17,17.5,18,-0.628267437278,-0.128267437278
+2024-05,Part_2,monthly,C_120,ENT,revised-or-established,75,32.970428354,32,32.5,33,-0.97042835399,-0.47042835399
+2024-05,Part_2,monthly,C_120,ENT,revised-or-established,92,50.4467507189,50,50.5,51,-0.446750718868,0.0532492811325
+2024-05,Part_2,monthly,C_120,ENT,revised-or-established,95,55.4228832952,55,55.5,56,-0.422883295195,0.0771167048055
+2024-05,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.6539506046,11,11.5,12,-0.653950604632,-0.153950604632
+2024-05,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,23.8826501484,23,23.5,24,-0.882650148436,-0.382650148436
+2024-05,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,40.3164351245,40,40.5,41,-0.316435124509,0.183564875491
+2024-05,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,45.7364561767,45,45.5,46,-0.736456176674,-0.236456176674
+2024-05,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.399437345,13,13.5,14,-0.399437345031,0.100562654969
+2024-05,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,26.8642894462,26,26.5,27,-0.864289446186,-0.364289446186
+2024-05,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,42.9771286425,42,42.5,43,-0.977128642502,-0.477128642502
+2024-05,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,47.9074083251,47,47.5,48,-0.907408325074,-0.407408325074
+2024-05,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.8587022702,13,13.5,14,-0.858702270157,-0.358702270157
+2024-05,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.456591514,26,26.5,27,-0.456591514013,0.0434084859872
+2024-05,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.8229140893,41,41.5,42,-0.822914089347,-0.322914089347
+2024-05,Part_2,monthly,C_320,Cardiology,revised-or-established,95,46.5967172845,46,46.5,47,-0.596717284502,-0.096717284502
+2024-05,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.4444066065,16,16.5,17,-0.444406606504,0.0555933934957
+2024-05,Part_2,monthly,C_400,Neurology,revised-or-established,75,30.5540123457,30,30.5,31,-0.554012345679,-0.054012345679
+2024-05,Part_2,monthly,C_400,Neurology,revised-or-established,92,44.9797278912,44,44.5,45,-0.979727891156,-0.479727891156
+2024-05,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.9683266932,48,48.5,49,-0.968326693227,-0.468326693227
+2024-06,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.3422540374,14,14.5,15,-0.342254037421,0.157745962579
+2024-06,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,27.9248100444,27,27.5,28,-0.924810044388,-0.424810044388
+2024-06,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,44.6961442475,44,44.5,45,-0.696144247466,-0.196144247466
+2024-06,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,49.8097824121,49,49.5,50,-0.809782412073,-0.309782412073
+2024-06,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.9967133881,14,14.5,15,-0.99671338811,-0.49671338811
+2024-06,Part_2,monthly,C_100,General surgery,revised-or-established,75,29.5133614627,29,29.5,30,-0.513361462729,-0.0133614627286
+2024-06,Part_2,monthly,C_100,General surgery,revised-or-established,92,46.6215764222,46,46.5,47,-0.621576422207,-0.121576422207
+2024-06,Part_2,monthly,C_100,General surgery,revised-or-established,95,51.6438282648,51,51.5,52,-0.643828264758,-0.143828264758
+2024-06,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,15.3536100196,15,15.5,16,-0.353610019646,0.146389980354
+2024-06,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,29.8888242393,29,29.5,30,-0.88882423929,-0.38882423929
+2024-06,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,47.0348819607,47,47.5,48,-0.0348819607137,0.465118039286
+2024-06,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,52.1595353928,52,52.5,53,-0.159535392848,0.340464607152
+2024-06,Part_2,monthly,C_120,ENT,revised-or-established,50,17.9578439735,17,17.5,18,-0.957843973493,-0.457843973493
+2024-06,Part_2,monthly,C_120,ENT,revised-or-established,75,32.7583759382,32,32.5,33,-0.758375938214,-0.258375938214
+2024-06,Part_2,monthly,C_120,ENT,revised-or-established,92,50.1441812176,50,50.5,51,-0.144181217555,0.355818782445
+2024-06,Part_2,monthly,C_120,ENT,revised-or-established,95,55.2525964813,55,55.5,56,-0.252596481271,0.247403518729
+2024-06,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.4154157531,11,11.5,12,-0.415415753078,0.0845842469219
+2024-06,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,22.787803241,22,22.5,23,-0.787803240963,-0.287803240963
+2024-06,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,39.7820968908,39,39.5,40,-0.782096890817,-0.282096890817
+2024-06,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,45.3201384083,45,45.5,46,-0.320138408304,0.179861591696
+2024-06,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.6162751299,13,13.5,14,-0.616275129885,-0.116275129885
+2024-06,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,26.4361720067,26,26.5,27,-0.436172006745,0.0638279932546
+2024-06,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,42.4475795707,42,42.5,43,-0.447579570688,0.0524204293116
+2024-06,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,47.5692255435,47,47.5,48,-0.569225543478,-0.0692255434783
+2024-06,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.0574353635,14,14.5,15,-0.0574353635259,0.442564636474
+2024-06,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.8750497413,25,25.5,26,-0.875049741345,-0.375049741345
+2024-06,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.2816710183,41,41.5,42,-0.281671018277,0.218328981723
+2024-06,Part_2,monthly,C_320,Cardiology,revised-or-established,95,46.2446222222,46,46.5,47,-0.244622222222,0.255377777778
+2024-06,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.5829952373,16,16.5,17,-0.582995237255,-0.0829952372552
+2024-06,Part_2,monthly,C_400,Neurology,revised-or-established,75,30.6051401869,30,30.5,31,-0.605140186916,-0.105140186916
+2024-06,Part_2,monthly,C_400,Neurology,revised-or-established,92,45.3770212766,45,45.5,46,-0.377021276596,0.122978723404
+2024-06,Part_2,monthly,C_400,Neurology,revised-or-established,95,49.5242564442,49,49.5,50,-0.524256444151,-0.0242564441507
+2024-07,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.9832664359,13,13.5,14,-0.983266435859,-0.483266435859
+2024-07,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,26.8600007684,26,26.5,27,-0.86000076837,-0.36000076837
+2024-07,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,44.1081757179,44,44.5,45,-0.108175717853,0.391824282147
+2024-07,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,49.4181644436,49,49.5,50,-0.418164443613,0.0818355563872
+2024-07,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.508549027,14,14.5,15,-0.508549027017,-0.00854902701681
+2024-07,Part_2,monthly,C_100,General surgery,revised-or-established,75,28.3730006664,28,28.5,29,-0.373000666445,0.126999333555
+2024-07,Part_2,monthly,C_100,General surgery,revised-or-established,92,46.3586988458,46,46.5,47,-0.35869884575,0.14130115425
+2024-07,Part_2,monthly,C_100,General surgery,revised-or-established,95,51.6403759058,51,51.5,52,-0.640375905797,-0.140375905797
+2024-07,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.6075640416,14,14.5,15,-0.607564041643,-0.107564041643
+2024-07,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,28.3567614933,28,28.5,29,-0.356761493316,0.143238506684
+2024-07,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,46.310726257,46,46.5,47,-0.310726256983,0.189273743017
+2024-07,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,51.7875225836,51,51.5,52,-0.787522583559,-0.287522583559
+2024-07,Part_2,monthly,C_120,ENT,revised-or-established,50,18.2725750222,18,18.5,19,-0.272575022216,0.227424977784
+2024-07,Part_2,monthly,C_120,ENT,revised-or-established,75,32.5107115321,32,32.5,33,-0.510711532107,-0.0107115321071
+2024-07,Part_2,monthly,C_120,ENT,revised-or-established,92,49.4465953908,49,49.5,50,-0.446595390829,0.0534046091708
+2024-07,Part_2,monthly,C_120,ENT,revised-or-established,95,54.6572161742,54,54.5,55,-0.657216174184,-0.157216174184
+2024-07,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.5845551062,11,11.5,12,-0.584555106168,-0.0845551061678
+2024-07,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,22.8976481252,22,22.5,23,-0.897648125179,-0.397648125179
+2024-07,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,39.4620956156,39,39.5,40,-0.462095615556,0.0379043844439
+2024-07,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,44.5466568819,44,44.5,45,-0.546656881931,-0.0466568819308
+2024-07,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.3175163168,13,13.5,14,-0.317516316811,0.182483683189
+2024-07,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,25.5157319857,25,25.5,26,-0.515731985654,-0.0157319856537
+2024-07,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,41.5359865772,41,41.5,42,-0.535986577181,-0.0359865771812
+2024-07,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,46.3415590864,46,46.5,47,-0.341559086395,0.158440913605
+2024-07,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.8125593918,13,13.5,14,-0.812559391828,-0.312559391828
+2024-07,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.6471168758,25,25.5,26,-0.647116875793,-0.147116875793
+2024-07,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.1164283403,41,41.5,42,-0.116428340343,0.383571659657
+2024-07,Part_2,monthly,C_320,Cardiology,revised-or-established,95,45.6807378807,45,45.5,46,-0.680737880738,-0.180737880738
+2024-07,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.0501821494,16,16.5,17,-0.0501821493625,0.449817850638
+2024-07,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.3676813041,29,29.5,30,-0.367681304059,0.132318695941
+2024-07,Part_2,monthly,C_400,Neurology,revised-or-established,92,45.0143939394,45,45.5,46,-0.0143939393939,0.485606060606
+2024-07,Part_2,monthly,C_400,Neurology,revised-or-established,95,49.4160547397,49,49.5,50,-0.416054739653,0.0839452603471
+2024-08,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.5976038858,14,14.5,15,-0.597603885797,-0.0976038857973
+2024-08,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,27.4227098156,27,27.5,28,-0.422709815636,0.0772901843643
+2024-08,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,44.3740800315,44,44.5,45,-0.37408003154,0.12591996846
+2024-08,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,49.2669083177,49,49.5,50,-0.26690831775,0.23309168225
+2024-08,Part_2,monthly,C_100,General surgery,revised-or-established,50,15.0204921868,15,15.5,16,-0.020492186769,0.479507813231
+2024-08,Part_2,monthly,C_100,General surgery,revised-or-established,75,28.8547686654,28,28.5,29,-0.854768665442,-0.354768665442
+2024-08,Part_2,monthly,C_100,General surgery,revised-or-established,92,46.4226936497,46,46.5,47,-0.422693649686,0.077306350314
+2024-08,Part_2,monthly,C_100,General surgery,revised-or-established,95,51.4424563017,51,51.5,52,-0.442456301748,0.0575436982521
+2024-08,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,15.0714907319,15,15.5,16,-0.0714907318771,0.428509268123
+2024-08,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,28.5828500768,28,28.5,29,-0.582850076753,-0.0828500767525
+2024-08,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,46.406554873,46,46.5,47,-0.406554872987,0.0934451270131
+2024-08,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,51.4003945231,51,51.5,52,-0.400394523091,0.0996054769088
+2024-08,Part_2,monthly,C_120,ENT,revised-or-established,50,18.6823040762,18,18.5,19,-0.682304076244,-0.182304076244
+2024-08,Part_2,monthly,C_120,ENT,revised-or-established,75,32.1936294416,32,32.5,33,-0.193629441624,0.306370558376
+2024-08,Part_2,monthly,C_120,ENT,revised-or-established,92,48.8712907745,48,48.5,49,-0.871290774465,-0.371290774465
+2024-08,Part_2,monthly,C_120,ENT,revised-or-established,95,53.9859075707,53,53.5,54,-0.98590757069,-0.48590757069
+2024-08,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.9274411617,11,11.5,12,-0.927441161743,-0.427441161743
+2024-08,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,23.386140577,23,23.5,24,-0.38614057698,0.11385942302
+2024-08,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,39.6089097651,39,39.5,40,-0.608909765142,-0.108909765142
+2024-08,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,44.7212410501,44,44.5,45,-0.721241050119,-0.221241050119
+2024-08,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.5950757138,13,13.5,14,-0.59507571379,-0.0950757137903
+2024-08,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,25.7557846687,25,25.5,26,-0.75578466866,-0.25578466866
+2024-08,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,41.7083976261,41,41.5,42,-0.708397626113,-0.208397626113
+2024-08,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,46.4930138827,46,46.5,47,-0.493013882669,0.00698611733096
+2024-08,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.5778698613,14,14.5,15,-0.577869861328,-0.0778698613276
+2024-08,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.5024881004,26,26.5,27,-0.502488100389,-0.00248810038944
+2024-08,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.7164790047,41,41.5,42,-0.716479004666,-0.216479004666
+2024-08,Part_2,monthly,C_320,Cardiology,revised-or-established,95,46.2592724979,46,46.5,47,-0.259272497897,0.240727502103
+2024-08,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.691972818,16,16.5,17,-0.691972818008,-0.191972818008
+2024-08,Part_2,monthly,C_400,Neurology,revised-or-established,75,30.1219153113,30,30.5,31,-0.121915311273,0.378084688727
+2024-08,Part_2,monthly,C_400,Neurology,revised-or-established,92,45.8890455213,45,45.5,46,-0.889045521292,-0.389045521292
+2024-08,Part_2,monthly,C_400,Neurology,revised-or-established,95,49.9345340383,49,49.5,50,-0.934534038334,-0.434534038334
+2024-09,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.4043179513,14,14.5,15,-0.40431795128,0.0956820487203
+2024-09,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,27.2932923096,27,27.5,28,-0.293292309603,0.206707690397
+2024-09,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,43.6989094947,43,43.5,44,-0.698909494725,-0.198909494725
+2024-09,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,48.4681925538,48,48.5,49,-0.46819255384,0.0318074461601
+2024-09,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.6695109162,14,14.5,15,-0.669510916198,-0.169510916198
+2024-09,Part_2,monthly,C_100,General surgery,revised-or-established,75,28.3581081081,28,28.5,29,-0.358108108108,0.141891891892
+2024-09,Part_2,monthly,C_100,General surgery,revised-or-established,92,45.4516853933,45,45.5,46,-0.451685393258,0.0483146067416
+2024-09,Part_2,monthly,C_100,General surgery,revised-or-established,95,50.3099956446,50,50.5,51,-0.309995644599,0.190004355401
+2024-09,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.8231431261,14,14.5,15,-0.823143126093,-0.323143126093
+2024-09,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,28.0688071471,28,28.5,29,-0.0688071470514,0.431192852949
+2024-09,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,45.6810778837,45,45.5,46,-0.681077883667,-0.181077883667
+2024-09,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,50.5544402752,50,50.5,51,-0.554440275172,-0.054440275172
+2024-09,Part_2,monthly,C_120,ENT,revised-or-established,50,18.628786826,18,18.5,19,-0.628786826014,-0.128786826014
+2024-09,Part_2,monthly,C_120,ENT,revised-or-established,75,31.9399285714,31,31.5,32,-0.939928571429,-0.439928571429
+2024-09,Part_2,monthly,C_120,ENT,revised-or-established,92,47.4130583102,47,47.5,48,-0.413058310194,0.0869416898056
+2024-09,Part_2,monthly,C_120,ENT,revised-or-established,95,51.8858093995,51,51.5,52,-0.885809399478,-0.385809399478
+2024-09,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.9142005535,11,11.5,12,-0.914200553545,-0.414200553545
+2024-09,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,23.1149530902,23,23.5,24,-0.114953090241,0.385046909759
+2024-09,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,38.1134082397,38,38.5,39,-0.1134082397,0.3865917603
+2024-09,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,44.3030992417,44,44.5,45,-0.303099241675,0.196900758325
+2024-09,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.3477993955,13,13.5,14,-0.347799395542,0.152200604458
+2024-09,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,25.2158183633,25,25.5,26,-0.215818363273,0.284181636727
+2024-09,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,40.9133883058,40,40.5,41,-0.913388305847,-0.413388305847
+2024-09,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,45.8010901163,45,45.5,46,-0.801090116279,-0.301090116279
+2024-09,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.4503533873,14,14.5,15,-0.450353387347,0.049646612653
+2024-09,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.4288617886,26,26.5,27,-0.428861788618,0.0711382113821
+2024-09,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.4898751201,41,41.5,42,-0.489875120077,0.0101248799231
+2024-09,Part_2,monthly,C_320,Cardiology,revised-or-established,95,45.9083267248,45,45.5,46,-0.908326724822,-0.408326724822
+2024-09,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.1826102108,16,16.5,17,-0.182610210838,0.317389789162
+2024-09,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.808481153,29,29.5,30,-0.808481152993,-0.308481152993
+2024-09,Part_2,monthly,C_400,Neurology,revised-or-established,92,45.4926853707,45,45.5,46,-0.492685370741,0.0073146292585
+2024-09,Part_2,monthly,C_400,Neurology,revised-or-established,95,49.6126429052,49,49.5,50,-0.612642905178,-0.112642905178
+2024-10,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.2277888281,14,14.5,15,-0.227788828112,0.272211171888
+2024-10,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,26.8616346093,26,26.5,27,-0.861634609286,-0.361634609286
+2024-10,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,42.3644639644,42,42.5,43,-0.3644639644,0.1355360356
+2024-10,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,48.0690445043,48,48.5,49,-0.0690445042642,0.430955495736
+2024-10,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.5067259934,14,14.5,15,-0.506725993377,-0.00672599337748
+2024-10,Part_2,monthly,C_100,General surgery,revised-or-established,75,27.7481769567,27,27.5,28,-0.748176956733,-0.248176956733
+2024-10,Part_2,monthly,C_100,General surgery,revised-or-established,92,44.8167001435,44,44.5,45,-0.816700143472,-0.316700143472
+2024-10,Part_2,monthly,C_100,General surgery,revised-or-established,95,49.7778837814,49,49.5,50,-0.77788378144,-0.27788378144
+2024-10,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.6327331487,14,14.5,15,-0.632733148661,-0.132733148661
+2024-10,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,27.2572840599,27,27.5,28,-0.257284059895,0.242715940105
+2024-10,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,44.9661456348,44,44.5,45,-0.966145634769,-0.466145634769
+2024-10,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,50.0918671249,50,50.5,51,-0.0918671248568,0.408132875143
+2024-10,Part_2,monthly,C_120,ENT,revised-or-established,50,18.6059825961,18,18.5,19,-0.605982596084,-0.105982596084
+2024-10,Part_2,monthly,C_120,ENT,revised-or-established,75,32.2833759968,32,32.5,33,-0.283375996849,0.216624003151
+2024-10,Part_2,monthly,C_120,ENT,revised-or-established,92,47.1705914826,47,47.5,48,-0.17059148265,0.32940851735
+2024-10,Part_2,monthly,C_120,ENT,revised-or-established,95,51.2562818792,51,51.5,52,-0.256281879195,0.243718120805
+2024-10,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.4865495711,11,11.5,12,-0.486549571103,0.0134504288965
+2024-10,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,23.0093981101,23,23.5,24,-0.00939811010682,0.490601889893
+2024-10,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,37.9020575414,37,37.5,38,-0.902057541412,-0.402057541412
+2024-10,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,42.5020586183,42,42.5,43,-0.502058618283,-0.00205861828333
+2024-10,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.0509099617,13,13.5,14,-0.0509099616858,0.449090038314
+2024-10,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.9133118827,24,24.5,25,-0.91331188267,-0.41331188267
+2024-10,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,39.67475,39,39.5,40,-0.67475,-0.17475
+2024-10,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,45.028658835,45,45.5,46,-0.0286588350465,0.471341164954
+2024-10,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.1373289965,14,14.5,15,-0.13732899646,0.36267100354
+2024-10,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.2053162564,26,26.5,27,-0.20531625644,0.29468374356
+2024-10,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.7134971645,40,40.5,41,-0.713497164461,-0.213497164461
+2024-10,Part_2,monthly,C_320,Cardiology,revised-or-established,95,45.9874338086,45,45.5,46,-0.987433808554,-0.487433808554
+2024-10,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.1530431706,16,16.5,17,-0.153043170559,0.346956829441
+2024-10,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.4244484739,29,29.5,30,-0.424448473859,0.0755515261408
+2024-10,Part_2,monthly,C_400,Neurology,revised-or-established,92,45.2640826365,45,45.5,46,-0.264082636498,0.235917363502
+2024-10,Part_2,monthly,C_400,Neurology,revised-or-established,95,49.5065677966,49,49.5,50,-0.50656779661,-0.00656779661016
+2024-11,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.997676016,13,13.5,14,-0.997676015951,-0.497676015951
+2024-11,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,26.8280681326,26,26.5,27,-0.828068132582,-0.328068132582
+2024-11,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,42.2320457238,42,42.5,43,-0.232045723845,0.267954276155
+2024-11,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,46.6971043524,46,46.5,47,-0.697104352361,-0.197104352361
+2024-11,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.4188913797,14,14.5,15,-0.418891379662,0.0811086203383
+2024-11,Part_2,monthly,C_100,General surgery,revised-or-established,75,27.6454604096,27,27.5,28,-0.645460409611,-0.145460409611
+2024-11,Part_2,monthly,C_100,General surgery,revised-or-established,92,43.6507138264,43,43.5,44,-0.650713826367,-0.150713826367
+2024-11,Part_2,monthly,C_100,General surgery,revised-or-established,95,49.090806293,49,49.5,50,-0.0908062930187,0.409193706981
+2024-11,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.4773289561,14,14.5,15,-0.477328956133,0.0226710438672
+2024-11,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,27.2739708561,27,27.5,28,-0.273970856102,0.226029143898
+2024-11,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.4902736564,43,43.5,44,-0.490273656446,0.00972634355423
+2024-11,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,49.2823566879,49,49.5,50,-0.282356687898,0.217643312102
+2024-11,Part_2,monthly,C_120,ENT,revised-or-established,50,18.3528444345,18,18.5,19,-0.352844434477,0.147155565523
+2024-11,Part_2,monthly,C_120,ENT,revised-or-established,75,32.0122515253,32,32.5,33,-0.0122515252903,0.48774847471
+2024-11,Part_2,monthly,C_120,ENT,revised-or-established,92,46.0353663214,46,46.5,47,-0.0353663214423,0.464633678558
+2024-11,Part_2,monthly,C_120,ENT,revised-or-established,95,51.0764071541,51,51.5,52,-0.0764071541294,0.423592845871
+2024-11,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.0174772477,11,11.5,12,-0.0174772476958,0.482522752304
+2024-11,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,22.6867935916,22,22.5,23,-0.686793591572,-0.186793591572
+2024-11,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,37.7664604224,37,37.5,38,-0.766460422445,-0.266460422445
+2024-11,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,42.4522171254,42,42.5,43,-0.452217125382,0.0477828746177
+2024-11,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,12.6534262912,12,12.5,13,-0.653426291166,-0.153426291166
+2024-11,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.598188194,24,24.5,25,-0.598188194039,-0.0981881940386
+2024-11,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,39.2054991597,39,39.5,40,-0.205499159664,0.294500840336
+2024-11,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,44.0094185488,44,44.5,45,-0.00941854877462,0.490581451225
+2024-11,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.9568258562,13,13.5,14,-0.956825856247,-0.456825856247
+2024-11,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.1241629998,26,26.5,27,-0.124162999809,0.375837000191
+2024-11,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.9344383728,40,40.5,41,-0.934438372799,-0.434438372799
+2024-11,Part_2,monthly,C_320,Cardiology,revised-or-established,95,45.4599739244,45,45.5,46,-0.459973924381,0.0400260756193
+2024-11,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.9974079371,15,15.5,16,-0.997407937075,-0.497407937075
+2024-11,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.2458568406,29,29.5,30,-0.245856840621,0.254143159379
+2024-11,Part_2,monthly,C_400,Neurology,revised-or-established,92,43.996778032,43,43.5,44,-0.996778032037,-0.496778032037
+2024-11,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.9738167939,48,48.5,49,-0.973816793893,-0.473816793893
+2024-12,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.2134938307,14,14.5,15,-0.213493830718,0.286506169282
+2024-12,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,27.2634904844,27,27.5,28,-0.26349048439,0.23650951561
+2024-12,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,42.7349585289,42,42.5,43,-0.734958528912,-0.234958528912
+2024-12,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,47.1780112238,47,47.5,48,-0.178011223809,0.321988776191
+2024-12,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.6730899584,14,14.5,15,-0.673089958362,-0.173089958362
+2024-12,Part_2,monthly,C_100,General surgery,revised-or-established,75,28.1158466349,28,28.5,29,-0.115846634853,0.384153365147
+2024-12,Part_2,monthly,C_100,General surgery,revised-or-established,92,44.2119352664,44,44.5,45,-0.211935266352,0.288064733648
+2024-12,Part_2,monthly,C_100,General surgery,revised-or-established,95,48.7325189553,48,48.5,49,-0.73251895535,-0.23251895535
+2024-12,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.9994683914,14,14.5,15,-0.999468391441,-0.499468391441
+2024-12,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,27.9327136409,27,27.5,28,-0.932713640884,-0.432713640884
+2024-12,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.9893333333,43,43.5,44,-0.989333333333,-0.489333333333
+2024-12,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,48.7452993211,48,48.5,49,-0.745299321127,-0.245299321127
+2024-12,Part_2,monthly,C_120,ENT,revised-or-established,50,18.4886615602,18,18.5,19,-0.488661560169,0.0113384398307
+2024-12,Part_2,monthly,C_120,ENT,revised-or-established,75,32.7221316819,32,32.5,33,-0.722131681877,-0.222131681877
+2024-12,Part_2,monthly,C_120,ENT,revised-or-established,92,46.7869448685,46,46.5,47,-0.786944868533,-0.286944868533
+2024-12,Part_2,monthly,C_120,ENT,revised-or-established,95,50.5101985981,50,50.5,51,-0.510198598131,-0.0101985981308
+2024-12,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.5153090104,11,11.5,12,-0.515309010446,-0.0153090104461
+2024-12,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,22.9859995659,22,22.5,23,-0.985999565878,-0.485999565878
+2024-12,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,38.1889433962,38,38.5,39,-0.188943396226,0.311056603774
+2024-12,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,43.2676480209,43,43.5,44,-0.267648020936,0.232351979064
+2024-12,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.031474175,13,13.5,14,-0.0314741750359,0.468525824964
+2024-12,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.8379426397,24,24.5,25,-0.837942639742,-0.337942639742
+2024-12,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,39.2464529473,39,39.5,40,-0.24645294726,0.25354705274
+2024-12,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,43.9995372318,43,43.5,44,-0.999537231805,-0.499537231805
+2024-12,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.9320467635,13,13.5,14,-0.932046763518,-0.432046763518
+2024-12,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.3982625483,26,26.5,27,-0.398262548263,0.101737451737
+2024-12,Part_2,monthly,C_320,Cardiology,revised-or-established,92,41.3074614472,41,41.5,42,-0.307461447212,0.192538552788
+2024-12,Part_2,monthly,C_320,Cardiology,revised-or-established,95,45.6573950976,45,45.5,46,-0.657395097632,-0.157395097632
+2024-12,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.2060536534,16,16.5,17,-0.206053653371,0.293946346629
+2024-12,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.711447295,29,29.5,30,-0.711447295036,-0.211447295036
+2024-12,Part_2,monthly,C_400,Neurology,revised-or-established,92,44.4525587828,44,44.5,45,-0.452558782849,0.0474412171508
+2024-12,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.2866987179,48,48.5,49,-0.286698717949,0.213301282051
+2025-01,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.4354037935,14,14.5,15,-0.435403793538,0.0645962064619
+2025-01,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,27.2986166515,27,27.5,28,-0.29861665147,0.20138334853
+2025-01,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,42.3969653248,42,42.5,43,-0.396965324816,0.103034675184
+2025-01,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,47.2728363888,47,47.5,48,-0.272836388793,0.227163611207
+2025-01,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.8109656301,14,14.5,15,-0.810965630115,-0.310965630115
+2025-01,Part_2,monthly,C_100,General surgery,revised-or-established,75,28.1887334821,28,28.5,29,-0.188733482066,0.311266517934
+2025-01,Part_2,monthly,C_100,General surgery,revised-or-established,92,43.9290917647,43,43.5,44,-0.929091764706,-0.429091764706
+2025-01,Part_2,monthly,C_100,General surgery,revised-or-established,95,48.6525685677,48,48.5,49,-0.652568567697,-0.152568567697
+2025-01,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,15.4915169661,15,15.5,16,-0.491516966068,0.00848303393214
+2025-01,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,28.1781492132,28,28.5,29,-0.178149213196,0.321850786804
+2025-01,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.5778284581,43,43.5,44,-0.577828458106,-0.0778284581061
+2025-01,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,48.6232374567,48,48.5,49,-0.623237456747,-0.123237456747
+2025-01,Part_2,monthly,C_120,ENT,revised-or-established,50,18.2418206098,18,18.5,19,-0.241820609838,0.258179390162
+2025-01,Part_2,monthly,C_120,ENT,revised-or-established,75,32.7543633979,32,32.5,33,-0.754363397902,-0.254363397902
+2025-01,Part_2,monthly,C_120,ENT,revised-or-established,92,47.1157465907,47,47.5,48,-0.115746590713,0.384253409287
+2025-01,Part_2,monthly,C_120,ENT,revised-or-established,95,50.8320152179,50,50.5,51,-0.832015217893,-0.332015217893
+2025-01,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.642398176,11,11.5,12,-0.642398175977,-0.142398175977
+2025-01,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,22.6642124638,22,22.5,23,-0.664212463844,-0.164212463844
+2025-01,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,38.3648923247,38,38.5,39,-0.364892324683,0.135107675317
+2025-01,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,43.0273280299,43,43.5,44,-0.0273280299485,0.472671970051
+2025-01,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.193898368,13,13.5,14,-0.193898367953,0.306101632047
+2025-01,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.7453616352,24,24.5,25,-0.74536163522,-0.24536163522
+2025-01,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,39.2613079667,39,39.5,40,-0.261307966706,0.238692033294
+2025-01,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,43.8611187845,43,43.5,44,-0.86111878453,-0.36111878453
+2025-01,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.1183926878,14,14.5,15,-0.118392687764,0.381607312236
+2025-01,Part_2,monthly,C_320,Cardiology,revised-or-established,75,26.1845339972,26,26.5,27,-0.184533997199,0.315466002801
+2025-01,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.9333899333,40,40.5,41,-0.933389933293,-0.433389933293
+2025-01,Part_2,monthly,C_320,Cardiology,revised-or-established,95,45.7166938111,45,45.5,46,-0.716693811075,-0.216693811075
+2025-01,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.4851907631,16,16.5,17,-0.485190763052,0.0148092369478
+2025-01,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.9237181283,29,29.5,30,-0.923718128327,-0.423718128327
+2025-01,Part_2,monthly,C_400,Neurology,revised-or-established,92,44.6829051383,44,44.5,45,-0.68290513834,-0.18290513834
+2025-01,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.630572189,48,48.5,49,-0.630572188955,-0.130572188955
+2025-02,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,14.2078621474,14,14.5,15,-0.207862147379,0.292137852621
+2025-02,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,26.7975539797,26,26.5,27,-0.797553979716,-0.297553979716
+2025-02,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,42.2183233356,42,42.5,43,-0.218323335649,0.281676664351
+2025-02,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,46.6089838924,46,46.5,47,-0.608983892426,-0.108983892426
+2025-02,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.4744842562,14,14.5,15,-0.474484256243,0.0255157437568
+2025-02,Part_2,monthly,C_100,General surgery,revised-or-established,75,27.7807459677,27,27.5,28,-0.780745967742,-0.280745967742
+2025-02,Part_2,monthly,C_100,General surgery,revised-or-established,92,43.4834793114,43,43.5,44,-0.483479311386,0.0165206886137
+2025-02,Part_2,monthly,C_100,General surgery,revised-or-established,95,48.1514271892,48,48.5,49,-0.151427189163,0.348572810837
+2025-02,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,15.4604670217,15,15.5,16,-0.460467021712,0.0395329782876
+2025-02,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,28.0052460655,28,28.5,29,-0.00524606545091,0.494753934549
+2025-02,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.3051337672,43,43.5,44,-0.305133767173,0.194866232827
+2025-02,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,48.0268150772,48,48.5,49,-0.0268150771566,0.473184922843
+2025-02,Part_2,monthly,C_120,ENT,revised-or-established,50,17.9256616965,17,17.5,18,-0.925661696511,-0.425661696511
+2025-02,Part_2,monthly,C_120,ENT,revised-or-established,75,32.3535353535,32,32.5,33,-0.353535353535,0.146464646465
+2025-02,Part_2,monthly,C_120,ENT,revised-or-established,92,46.5254718361,46,46.5,47,-0.525471836138,-0.0254718361375
+2025-02,Part_2,monthly,C_120,ENT,revised-or-established,95,50.759825518,50,50.5,51,-0.759825517993,-0.259825517993
+2025-02,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,11.2842695363,11,11.5,12,-0.284269536312,0.215730463688
+2025-02,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,22.0231357655,22,22.5,23,-0.0231357654863,0.476864234514
+2025-02,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,38.0458394161,38,38.5,39,-0.0458394160584,0.454160583942
+2025-02,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,43.0441087155,43,43.5,44,-0.044108715457,0.455891284543
+2025-02,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,13.1822194199,13,13.5,14,-0.182219419924,0.317780580076
+2025-02,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.347648571,24,24.5,25,-0.347648570997,0.152351429003
+2025-02,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,38.8802194453,38,38.5,39,-0.880219445291,-0.380219445291
+2025-02,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,43.5464654488,43,43.5,44,-0.546465448769,-0.0464654487689
+2025-02,Part_2,monthly,C_320,Cardiology,revised-or-established,50,14.0074438447,14,14.5,15,-0.00744384468048,0.49255615532
+2025-02,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.5736596915,25,25.5,26,-0.573659691462,-0.0736596914617
+2025-02,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.4983709869,40,40.5,41,-0.49837098692,0.00162901307966
+2025-02,Part_2,monthly,C_320,Cardiology,revised-or-established,95,44.9259355096,44,44.5,45,-0.925935509554,-0.425935509554
+2025-02,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.4677390686,16,16.5,17,-0.46773906861,0.03226093139
+2025-02,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.761065211,29,29.5,30,-0.761065210977,-0.261065210977
+2025-02,Part_2,monthly,C_400,Neurology,revised-or-established,92,44.1379139891,44,44.5,45,-0.137913989125,0.362086010875
+2025-02,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.4887339056,48,48.5,49,-0.488733905579,0.0112660944206
+2025-02,Part_1A,full,C_999,"England, all specialties",revised-or-established,50,12.2440819423,12,12.5,13,-0.244081942337,0.255918057663
+2025-02,Part_1A,full,C_999,"England, all specialties",revised-or-established,75,31.9707726537,31,31.5,32,-0.970772653722,-0.470772653722
+2025-02,Part_1A,full,C_999,"England, all specialties",revised-or-established,92,55.8698751201,55,55.5,56,-0.869875120077,-0.369875120077
+2025-02,Part_1A,full,C_999,"England, all specialties",revised-or-established,95,61.31081621,61,61.5,62,-0.310816210046,0.189183789954
+2025-02,Part_1A,full,C_100,General surgery,revised-or-established,50,16.4132653061,16,16.5,17,-0.413265306122,0.0867346938776
+2025-02,Part_1A,full,C_100,General surgery,revised-or-established,75,37.9231601732,37,37.5,38,-0.92316017316,-0.42316017316
+2025-02,Part_1A,full,C_100,General surgery,revised-or-established,92,57.4887958115,57,57.5,58,-0.488795811518,0.0112041884817
+2025-02,Part_1A,full,C_100,General surgery,revised-or-established,95,62.1512254902,62,62.5,63,-0.151225490196,0.348774509804
+2025-02,Part_1A,full,C_110,Trauma and orthopaedics,revised-or-established,50,22.9267480577,22,22.5,23,-0.926748057714,-0.426748057714
+2025-02,Part_1A,full,C_110,Trauma and orthopaedics,revised-or-established,75,41.8166969147,41,41.5,42,-0.816696914701,-0.316696914701
+2025-02,Part_1A,full,C_110,Trauma and orthopaedics,revised-or-established,92,59.9537953795,59,59.5,60,-0.953795379538,-0.453795379538
+2025-02,Part_1A,full,C_110,Trauma and orthopaedics,revised-or-established,95,63.7430406852,63,63.5,64,-0.743040685225,-0.243040685225
+2025-02,Part_1A,full,C_120,ENT,revised-or-established,50,31.4601769912,31,31.5,32,-0.46017699115,0.0398230088496
+2025-02,Part_1A,full,C_120,ENT,revised-or-established,75,53.7396907216,53,53.5,54,-0.739690721649,-0.239690721649
+2025-02,Part_1A,full,C_120,ENT,revised-or-established,92,64.8066968326,64,64.5,65,-0.806696832579,-0.306696832579
+2025-02,Part_1A,full,C_120,ENT,revised-or-established,95,66.8681528662,66,66.5,67,-0.868152866242,-0.368152866242
+2025-02,Part_1A,full,C_130,Ophthalmology,revised-or-established,50,6.82131661442,6,6.5,7,-0.82131661442,-0.32131661442
+2025-02,Part_1A,full,C_130,Ophthalmology,revised-or-established,75,16.9376391982,16,16.5,17,-0.937639198218,-0.437639198218
+2025-02,Part_1A,full,C_130,Ophthalmology,revised-or-established,92,38.5481712062,38,38.5,39,-0.548171206226,-0.0481712062257
+2025-02,Part_1A,full,C_130,Ophthalmology,revised-or-established,95,46.7368932039,46,46.5,47,-0.736893203883,-0.236893203883
+2025-02,Part_1A,full,C_301,Gastroenterology,revised-or-established,50,4.03941082803,4,4.5,5,-0.0394108280255,0.460589171975
+2025-02,Part_1A,full,C_301,Gastroenterology,revised-or-established,75,10.4884146341,10,10.5,11,-0.488414634146,0.0115853658537
+2025-02,Part_1A,full,C_301,Gastroenterology,revised-or-established,92,30.9674576271,30,30.5,31,-0.967457627119,-0.467457627119
+2025-02,Part_1A,full,C_301,Gastroenterology,revised-or-established,95,41.2950980392,41,41.5,42,-0.295098039216,0.204901960784
+2025-02,Part_1A,full,C_320,Cardiology,revised-or-established,50,11.4634146341,11,11.5,12,-0.463414634146,0.0365853658537
+2025-02,Part_1A,full,C_320,Cardiology,revised-or-established,75,24.3482142857,24,24.5,25,-0.348214285714,0.151785714286
+2025-02,Part_1A,full,C_320,Cardiology,revised-or-established,92,46.6,46,46.5,47,-0.6,-0.1
+2025-02,Part_1A,full,C_320,Cardiology,revised-or-established,95,52.8333333333,52,52.5,53,-0.833333333333,-0.333333333333
+2025-02,Part_1A,full,C_400,Neurology,revised-or-established,50,5.26,5,5.5,6,-0.26,0.24
+2025-02,Part_1A,full,C_400,Neurology,revised-or-established,75,16.9583333333,16,16.5,17,-0.958333333333,-0.458333333333
+2025-02,Part_1A,full,C_400,Neurology,revised-or-established,92,35.184,35,35.5,36,-0.184,0.316
+2025-02,Part_1A,full,C_400,Neurology,revised-or-established,95,41.3166666667,41,41.5,42,-0.316666666667,0.183333333333
+2025-02,Part_1B,full,C_999,"England, all specialties",revised-or-established,50,9.77195064072,9,9.5,10,-0.771950640721,-0.271950640721
+2025-02,Part_1B,full,C_999,"England, all specialties",revised-or-established,75,26.0893171161,26,26.5,27,-0.089317116061,0.410682883939
+2025-02,Part_1B,full,C_999,"England, all specialties",revised-or-established,92,48.8837155072,48,48.5,49,-0.88371550719,-0.38371550719
+2025-02,Part_1B,full,C_999,"England, all specialties",revised-or-established,95,54.1040994738,54,54.5,55,-0.104099473774,0.395900526226
+2025-02,Part_1B,full,C_100,General surgery,revised-or-established,50,6.9829424307,6,6.5,7,-0.982942430704,-0.482942430704
+2025-02,Part_1B,full,C_100,General surgery,revised-or-established,75,23.0012406948,23,23.5,24,-0.00124069478908,0.498759305211
+2025-02,Part_1B,full,C_100,General surgery,revised-or-established,92,49.7722834646,49,49.5,50,-0.772283464567,-0.272283464567
+2025-02,Part_1B,full,C_100,General surgery,revised-or-established,95,55.5863157895,55,55.5,56,-0.586315789474,-0.0863157894737
+2025-02,Part_1B,full,C_110,Trauma and orthopaedics,revised-or-established,50,12.470671521,12,12.5,13,-0.470671521036,0.0293284789644
+2025-02,Part_1B,full,C_110,Trauma and orthopaedics,revised-or-established,75,27.4462828649,27,27.5,28,-0.446282864914,0.0537171350861
+2025-02,Part_1B,full,C_110,Trauma and orthopaedics,revised-or-established,92,50.0520168067,50,50.5,51,-0.0520168067227,0.447983193277
+2025-02,Part_1B,full,C_110,Trauma and orthopaedics,revised-or-established,95,56.0323677582,56,56.5,57,-0.0323677581864,0.467632241814
+2025-02,Part_1B,full,C_120,ENT,revised-or-established,50,17.2077402135,17,17.5,18,-0.207740213523,0.292259786477
+2025-02,Part_1B,full,C_120,ENT,revised-or-established,75,40.0788075561,40,40.5,41,-0.0788075560803,0.42119244392
+2025-02,Part_1B,full,C_120,ENT,revised-or-established,92,55.7892482916,55,55.5,56,-0.789248291572,-0.289248291572
+2025-02,Part_1B,full,C_120,ENT,revised-or-established,95,59.782059448,59,59.5,60,-0.782059447983,-0.282059447983
+2025-02,Part_1B,full,C_130,Ophthalmology,revised-or-established,50,8.2610232245,8,8.5,9,-0.261023224504,0.238976775496
+2025-02,Part_1B,full,C_130,Ophthalmology,revised-or-established,75,19.778566482,19,19.5,20,-0.778566481994,-0.278566481994
+2025-02,Part_1B,full,C_130,Ophthalmology,revised-or-established,92,41.1674437628,41,41.5,42,-0.167443762781,0.332556237219
+2025-02,Part_1B,full,C_130,Ophthalmology,revised-or-established,95,48.1588435374,48,48.5,49,-0.158843537415,0.341156462585
+2025-02,Part_1B,full,C_301,Gastroenterology,revised-or-established,50,11.5530530531,11,11.5,12,-0.553053053053,-0.0530530530531
+2025-02,Part_1B,full,C_301,Gastroenterology,revised-or-established,75,28.4605555556,28,28.5,29,-0.460555555556,0.0394444444444
+2025-02,Part_1B,full,C_301,Gastroenterology,revised-or-established,92,49.2440121581,49,49.5,50,-0.244012158055,0.255987841945
+2025-02,Part_1B,full,C_301,Gastroenterology,revised-or-established,95,54.7151315789,54,54.5,55,-0.715131578947,-0.215131578947
+2025-02,Part_1B,full,C_320,Cardiology,revised-or-established,50,14.2205882353,14,14.5,15,-0.220588235294,0.279411764706
+2025-02,Part_1B,full,C_320,Cardiology,revised-or-established,75,31.4381313131,31,31.5,32,-0.438131313131,0.0618686868687
+2025-02,Part_1B,full,C_320,Cardiology,revised-or-established,92,51.5861878453,51,51.5,52,-0.586187845304,-0.0861878453039
+2025-02,Part_1B,full,C_320,Cardiology,revised-or-established,95,56.5447882736,56,56.5,57,-0.544788273616,-0.0447882736156
+2025-02,Part_1B,full,C_400,Neurology,revised-or-established,50,20.0354477612,20,20.5,21,-0.035447761194,0.464552238806
+2025-02,Part_1B,full,C_400,Neurology,revised-or-established,75,41.7014925373,41,41.5,42,-0.701492537313,-0.201492537313
+2025-02,Part_1B,full,C_400,Neurology,revised-or-established,92,55.7197538462,55,55.5,56,-0.719753846154,-0.219753846154
+2025-02,Part_1B,full,C_400,Neurology,revised-or-established,95,60.3343434343,60,60.5,61,-0.334343434343,0.165656565657
+2025-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.8204404415,13,13.5,14,-0.82044044154,-0.32044044154
+2025-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,26.283037986,26,26.5,27,-0.283037985984,0.216962014016
+2025-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,41.8904778843,41,41.5,42,-0.890477884267,-0.390477884267
+2025-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,46.418821115,46,46.5,47,-0.418821114979,0.0811788850211
+2025-03,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.097513358,14,14.5,15,-0.0975133579942,0.402486642006
+2025-03,Part_2,monthly,C_100,General surgery,revised-or-established,75,27.1173951049,27,27.5,28,-0.117395104895,0.382604895105
+2025-03,Part_2,monthly,C_100,General surgery,revised-or-established,92,42.7964505979,42,42.5,43,-0.79645059786,-0.29645059786
+2025-03,Part_2,monthly,C_100,General surgery,revised-or-established,95,47.4733532934,47,47.5,48,-0.473353293413,0.0266467065868
+2025-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,15.2611134682,15,15.5,16,-0.261113468156,0.238886531844
+2025-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,27.4672290468,27,27.5,28,-0.467229046805,0.0327709531955
+2025-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,42.7757883969,42,42.5,43,-0.775788396902,-0.275788396902
+2025-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,47.4329070929,47,47.5,48,-0.432907092907,0.0670929070929
+2025-03,Part_2,monthly,C_120,ENT,revised-or-established,50,17.5771791138,17,17.5,18,-0.577179113792,-0.0771791137924
+2025-03,Part_2,monthly,C_120,ENT,revised-or-established,75,31.5950511322,31,31.5,32,-0.595051132213,-0.0950511322133
+2025-03,Part_2,monthly,C_120,ENT,revised-or-established,92,46.2527509143,46,46.5,47,-0.252750914262,0.247249085738
+2025-03,Part_2,monthly,C_120,ENT,revised-or-established,95,50.09519082,50,50.5,51,-0.0951908200103,0.40480917999
+2025-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,9.90406079316,9,9.5,10,-0.904060793161,-0.404060793161
+2025-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,21.6743241799,21,21.5,22,-0.674324179934,-0.174324179934
+2025-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,37.5505670479,37,37.5,38,-0.550567047944,-0.0505670479435
+2025-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,42.5430869162,42,42.5,43,-0.543086916177,-0.0430869161769
+2025-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,12.3628643853,12,12.5,13,-0.362864385298,0.137135614702
+2025-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.5066229985,24,24.5,25,-0.506622998544,-0.0066229985444
+2025-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,38.8685194479,38,38.5,39,-0.86851944793,-0.36851944793
+2025-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,43.3235530951,43,43.5,44,-0.323553095118,0.176446904882
+2025-03,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.651520328,13,13.5,14,-0.651520327981,-0.151520327981
+2025-03,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.2982804233,25,25.5,26,-0.29828042328,0.20171957672
+2025-03,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.156622167,40,40.5,41,-0.156622167029,0.343377832971
+2025-03,Part_2,monthly,C_320,Cardiology,revised-or-established,95,44.6794736842,44,44.5,45,-0.679473684211,-0.179473684211
+2025-03,Part_2,monthly,C_400,Neurology,revised-or-established,50,16.3364519611,16,16.5,17,-0.336451961137,0.163548038863
+2025-03,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.0132508834,29,29.5,30,-0.0132508833922,0.486749116608
+2025-03,Part_2,monthly,C_400,Neurology,revised-or-established,92,43.7568812758,43,43.5,44,-0.756881275842,-0.256881275842
+2025-03,Part_2,monthly,C_400,Neurology,revised-or-established,95,47.7925636008,47,47.5,48,-0.792563600783,-0.292563600783
+2025-04,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.258164625,13,13.5,14,-0.258164624994,0.241835375006
+2025-04,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,26.5910745939,26,26.5,27,-0.591074593864,-0.0910745938636
+2025-04,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,42.2618071861,42,42.5,43,-0.261807186055,0.238192813945
+2025-04,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,46.714317912,46,46.5,47,-0.714317911957,-0.214317911957
+2025-04,Part_2,monthly,C_100,General surgery,revised-or-established,50,13.4779785432,13,13.5,14,-0.477978543196,0.0220214568041
+2025-04,Part_2,monthly,C_100,General surgery,revised-or-established,75,27.3740379682,27,27.5,28,-0.374037968189,0.125962031811
+2025-04,Part_2,monthly,C_100,General surgery,revised-or-established,92,43.1448314216,43,43.5,44,-0.14483142162,0.35516857838
+2025-04,Part_2,monthly,C_100,General surgery,revised-or-established,95,47.6498030635,47,47.5,48,-0.649803063457,-0.149803063457
+2025-04,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.5223099441,14,14.5,15,-0.522309944114,-0.0223099441143
+2025-04,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,28.0090302019,28,28.5,29,-0.00903020185157,0.490969798148
+2025-04,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.2269553975,43,43.5,44,-0.226955397544,0.273044602456
+2025-04,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,47.6265835512,47,47.5,48,-0.626583551176,-0.126583551176
+2025-04,Part_2,monthly,C_120,ENT,revised-or-established,50,17.0938142699,17,17.5,18,-0.093814269894,0.406185730106
+2025-04,Part_2,monthly,C_120,ENT,revised-or-established,75,31.4070093458,31,31.5,32,-0.407009345794,0.0929906542056
+2025-04,Part_2,monthly,C_120,ENT,revised-or-established,92,46.7241527446,46,46.5,47,-0.72415274463,-0.22415274463
+2025-04,Part_2,monthly,C_120,ENT,revised-or-established,95,50.6241650295,50,50.5,51,-0.62416502947,-0.12416502947
+2025-04,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,10.2044228695,10,10.5,11,-0.204422869471,0.295577130529
+2025-04,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,21.6600322614,21,21.5,22,-0.660032261422,-0.160032261422
+2025-04,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,37.2607055215,37,37.5,38,-0.260705521472,0.239294478528
+2025-04,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,42.5137691002,42,42.5,43,-0.51376910017,-0.0137691001698
+2025-04,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,12.5730438521,12,12.5,13,-0.573043852107,-0.0730438521066
+2025-04,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.8228082624,24,24.5,25,-0.822808262378,-0.322808262378
+2025-04,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,39.3467274503,39,39.5,40,-0.346727450342,0.153272549658
+2025-04,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,43.8209327549,43,43.5,44,-0.820932754881,-0.320932754881
+2025-04,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.2344253947,13,13.5,14,-0.23442539467,0.26557460533
+2025-04,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.5163477475,25,25.5,26,-0.516347747476,-0.0163477474763
+2025-04,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.3442963926,40,40.5,41,-0.34429639259,0.15570360741
+2025-04,Part_2,monthly,C_320,Cardiology,revised-or-established,95,44.7254428341,44,44.5,45,-0.725442834138,-0.225442834138
+2025-04,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.6458033141,15,15.5,16,-0.645803314121,-0.145803314121
+2025-04,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.2693370166,29,29.5,30,-0.269337016575,0.230662983425
+2025-04,Part_2,monthly,C_400,Neurology,revised-or-established,92,44.0908568497,44,44.5,45,-0.0908568496665,0.409143150333
+2025-04,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.1579417293,48,48.5,49,-0.157941729323,0.342058270677
+2025-05,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.5697948901,13,13.5,14,-0.569794890106,-0.0697948901055
+2025-05,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,26.7854906574,26,26.5,27,-0.785490657377,-0.285490657377
+2025-05,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,42.5267293498,42,42.5,43,-0.526729349837,-0.0267293498369
+2025-05,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,47.1793781203,47,47.5,48,-0.179378120304,0.320621879696
+2025-05,Part_2,monthly,C_100,General surgery,revised-or-established,50,13.8415274911,13,13.5,14,-0.841527491087,-0.341527491087
+2025-05,Part_2,monthly,C_100,General surgery,revised-or-established,75,27.4243726366,27,27.5,28,-0.424372636645,0.0756273633551
+2025-05,Part_2,monthly,C_100,General surgery,revised-or-established,92,43.2146726706,43,43.5,44,-0.214672670592,0.285327329408
+2025-05,Part_2,monthly,C_100,General surgery,revised-or-established,95,47.7619380183,47,47.5,48,-0.761938018333,-0.261938018333
+2025-05,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.7098062129,14,14.5,15,-0.709806212874,-0.209806212874
+2025-05,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,28.1639017137,28,28.5,29,-0.163901713749,0.336098286251
+2025-05,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.5733798573,43,43.5,44,-0.573379857256,-0.0733798572561
+2025-05,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,48.0651628521,48,48.5,49,-0.0651628521127,0.434837147887
+2025-05,Part_2,monthly,C_120,ENT,revised-or-established,50,17.3088235294,17,17.5,18,-0.308823529412,0.191176470588
+2025-05,Part_2,monthly,C_120,ENT,revised-or-established,75,31.768801502,31,31.5,32,-0.768801502034,-0.268801502034
+2025-05,Part_2,monthly,C_120,ENT,revised-or-established,92,47.076945426,47,47.5,48,-0.0769454259914,0.423054574009
+2025-05,Part_2,monthly,C_120,ENT,revised-or-established,95,51.2043878788,51,51.5,52,-0.204387878788,0.295612121212
+2025-05,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,10.5848810215,10,10.5,11,-0.584881021474,-0.0848810214742
+2025-05,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,20.5588111961,20,20.5,21,-0.558811196142,-0.0588111961422
+2025-05,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,36.946696187,36,36.5,37,-0.946696186962,-0.446696186962
+2025-05,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,42.3877129395,42,42.5,43,-0.387712939471,0.112287060529
+2025-05,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,12.7138634222,12,12.5,13,-0.713863422157,-0.213863422157
+2025-05,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.7680257161,24,24.5,25,-0.768025716146,-0.268025716146
+2025-05,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,39.3395169082,39,39.5,40,-0.339516908213,0.160483091787
+2025-05,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,43.9901664477,43,43.5,44,-0.990166447657,-0.490166447657
+2025-05,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.6904061212,13,13.5,14,-0.690406121248,-0.190406121248
+2025-05,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.7992573507,25,25.5,26,-0.799257350712,-0.299257350712
+2025-05,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.5933421927,40,40.5,41,-0.593342192691,-0.093342192691
+2025-05,Part_2,monthly,C_320,Cardiology,revised-or-established,95,45.0463951311,45,45.5,46,-0.0463951310861,0.453604868914
+2025-05,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.7862165963,15,15.5,16,-0.786216596343,-0.286216596343
+2025-05,Part_2,monthly,C_400,Neurology,revised-or-established,75,29.3374406176,29,29.5,30,-0.337440617577,0.162559382423
+2025-05,Part_2,monthly,C_400,Neurology,revised-or-established,92,44.3782623132,44,44.5,45,-0.378262313226,0.121737686774
+2025-05,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.4536433033,48,48.5,49,-0.453643303262,0.0463566967384
+2025-06,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.397750439,13,13.5,14,-0.397750439013,0.102249560987
+2025-06,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,25.6690338096,25,25.5,26,-0.669033809591,-0.169033809591
+2025-06,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,41.8065441402,41,41.5,42,-0.806544140237,-0.306544140237
+2025-06,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,46.80770382,46,46.5,47,-0.807703820015,-0.307703820015
+2025-06,Part_2,monthly,C_100,General surgery,revised-or-established,50,13.4600250144,13,13.5,14,-0.460025014431,0.0399749855686
+2025-06,Part_2,monthly,C_100,General surgery,revised-or-established,75,26.4003535541,26,26.5,27,-0.40035355415,0.0996464458504
+2025-06,Part_2,monthly,C_100,General surgery,revised-or-established,92,42.5445710364,42,42.5,43,-0.544571036376,-0.0445710363761
+2025-06,Part_2,monthly,C_100,General surgery,revised-or-established,95,47.3918234767,47,47.5,48,-0.391823476703,0.108176523297
+2025-06,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.3790211038,14,14.5,15,-0.379021103824,0.120978896176
+2025-06,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,27.8695617014,27,27.5,28,-0.869561701439,-0.369561701439
+2025-06,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.0459579306,43,43.5,44,-0.0459579306424,0.454042069358
+2025-06,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,47.9289033836,47,47.5,48,-0.928903383612,-0.428903383612
+2025-06,Part_2,monthly,C_120,ENT,revised-or-established,50,17.2284260561,17,17.5,18,-0.228426056102,0.271573943898
+2025-06,Part_2,monthly,C_120,ENT,revised-or-established,75,31.4478445157,31,31.5,32,-0.447844515662,0.0521554843378
+2025-06,Part_2,monthly,C_120,ENT,revised-or-established,92,46.6947279629,46,46.5,47,-0.694727962885,-0.194727962885
+2025-06,Part_2,monthly,C_120,ENT,revised-or-established,95,50.9689621726,50,50.5,51,-0.968962172648,-0.468962172648
+2025-06,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,10.3338827484,10,10.5,11,-0.333882748368,0.166117251632
+2025-06,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,20.3042311999,20,20.5,21,-0.304231199851,0.195768800149
+2025-06,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,36.4551528491,36,36.5,37,-0.455152849107,0.0448471508926
+2025-06,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,41.4500872296,41,41.5,42,-0.450087229588,0.0499127704117
+2025-06,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,12.4977249313,12,12.5,13,-0.497724931319,0.00227506868132
+2025-06,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,23.6644017369,23,23.5,24,-0.664401736893,-0.164401736893
+2025-06,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,39.0968500688,39,39.5,40,-0.0968500687758,0.403149931224
+2025-06,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,43.7278856826,43,43.5,44,-0.727885682575,-0.227885682575
+2025-06,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.6879380462,13,13.5,14,-0.687938046206,-0.187938046206
+2025-06,Part_2,monthly,C_320,Cardiology,revised-or-established,75,24.7368816185,24,24.5,25,-0.736881618461,-0.236881618461
+2025-06,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.0269344609,40,40.5,41,-0.026934460888,0.473065539112
+2025-06,Part_2,monthly,C_320,Cardiology,revised-or-established,95,44.7567078755,44,44.5,45,-0.756707875458,-0.256707875458
+2025-06,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.3528645833,15,15.5,16,-0.352864583333,0.147135416667
+2025-06,Part_2,monthly,C_400,Neurology,revised-or-established,75,28.9051345816,28,28.5,29,-0.905134581627,-0.405134581627
+2025-06,Part_2,monthly,C_400,Neurology,revised-or-established,92,43.7399091499,43,43.5,44,-0.739909149903,-0.239909149903
+2025-06,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.3018104777,48,48.5,49,-0.301810477658,0.198189522342
+2025-07,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.0989688179,13,13.5,14,-0.0989688179403,0.40103118206
+2025-07,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,25.4317197656,25,25.5,26,-0.431719765593,0.0682802344074
+2025-07,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,41.7966761934,41,41.5,42,-0.79667619335,-0.29667619335
+2025-07,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,46.3634806453,46,46.5,47,-0.36348064532,0.13651935468
+2025-07,Part_2,monthly,C_100,General surgery,revised-or-established,50,13.0468390805,13,13.5,14,-0.0468390804598,0.45316091954
+2025-07,Part_2,monthly,C_100,General surgery,revised-or-established,75,25.7467532468,25,25.5,26,-0.746753246753,-0.246753246753
+2025-07,Part_2,monthly,C_100,General surgery,revised-or-established,92,42.4824666667,42,42.5,43,-0.482466666667,0.0175333333333
+2025-07,Part_2,monthly,C_100,General surgery,revised-or-established,95,47.0952150797,47,47.5,48,-0.0952150797487,0.404784920251
+2025-07,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.0227440283,14,14.5,15,-0.0227440283102,0.47725597169
+2025-07,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,26.8918681061,26,26.5,27,-0.891868106078,-0.391868106078
+2025-07,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.3526928281,43,43.5,44,-0.352692828146,0.147307171854
+2025-07,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,47.8057993407,47,47.5,48,-0.80579934075,-0.30579934075
+2025-07,Part_2,monthly,C_120,ENT,revised-or-established,50,17.6121896773,17,17.5,18,-0.612189677332,-0.112189677332
+2025-07,Part_2,monthly,C_120,ENT,revised-or-established,75,30.9550537634,30,30.5,31,-0.955053763441,-0.455053763441
+2025-07,Part_2,monthly,C_120,ENT,revised-or-established,92,45.9041441441,45,45.5,46,-0.904144144144,-0.404144144144
+2025-07,Part_2,monthly,C_120,ENT,revised-or-established,95,50.6957526726,50,50.5,51,-0.695752672638,-0.195752672638
+2025-07,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,10.2722630618,10,10.5,11,-0.272263061819,0.227736938181
+2025-07,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,20.5486417199,20,20.5,21,-0.548641719888,-0.0486417198885
+2025-07,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,36.0905709955,36,36.5,37,-0.0905709954522,0.409429004548
+2025-07,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,41.1581859174,41,41.5,42,-0.158185917447,0.341814082553
+2025-07,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,11.9295473954,11,11.5,12,-0.929547395389,-0.429547395389
+2025-07,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,23.6613098324,23,23.5,24,-0.661309832383,-0.161309832383
+2025-07,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,39.3253333333,39,39.5,40,-0.325333333333,0.174666666667
+2025-07,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,43.779380531,43,43.5,44,-0.779380530973,-0.279380530973
+2025-07,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.2874366591,13,13.5,14,-0.287436659095,0.212563340905
+2025-07,Part_2,monthly,C_320,Cardiology,revised-or-established,75,24.6705621302,24,24.5,25,-0.670562130178,-0.170562130178
+2025-07,Part_2,monthly,C_320,Cardiology,revised-or-established,92,39.84,39,39.5,40,-0.84,-0.34
+2025-07,Part_2,monthly,C_320,Cardiology,revised-or-established,95,44.2146319569,44,44.5,45,-0.214631956912,0.285368043088
+2025-07,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.601671565,15,15.5,16,-0.601671565026,-0.101671565026
+2025-07,Part_2,monthly,C_400,Neurology,revised-or-established,75,27.9257529281,27,27.5,28,-0.925752928054,-0.425752928054
+2025-07,Part_2,monthly,C_400,Neurology,revised-or-established,92,43.5351191827,43,43.5,44,-0.535119182747,-0.0351191827469
+2025-07,Part_2,monthly,C_400,Neurology,revised-or-established,95,47.8402173913,47,47.5,48,-0.840217391304,-0.340217391304
+2025-08,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.4515398551,13,13.5,14,-0.451539855072,0.0484601449275
+2025-08,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,25.9277511962,25,25.5,26,-0.927751196172,-0.427751196172
+2025-08,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,42.157048613,42,42.5,43,-0.157048613049,0.342951386951
+2025-08,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,46.7768515756,46,46.5,47,-0.776851575589,-0.276851575589
+2025-08,Part_2,monthly,C_100,General surgery,revised-or-established,50,13.4276841171,13,13.5,14,-0.427684117125,0.0723158828749
+2025-08,Part_2,monthly,C_100,General surgery,revised-or-established,75,26.1964967624,26,26.5,27,-0.196496762411,0.303503237589
+2025-08,Part_2,monthly,C_100,General surgery,revised-or-established,92,42.7850944717,42,42.5,43,-0.785094471658,-0.285094471658
+2025-08,Part_2,monthly,C_100,General surgery,revised-or-established,95,47.4674568966,47,47.5,48,-0.467456896552,0.0325431034483
+2025-08,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.410060354,14,14.5,15,-0.410060353968,0.0899396460321
+2025-08,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,27.2248671487,27,27.5,28,-0.224867148706,0.275132851294
+2025-08,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.8581830151,43,43.5,44,-0.858183015142,-0.358183015142
+2025-08,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,48.2907544836,48,48.5,49,-0.290754483612,0.209245516388
+2025-08,Part_2,monthly,C_120,ENT,revised-or-established,50,17.9214560681,17,17.5,18,-0.921456068076,-0.421456068076
+2025-08,Part_2,monthly,C_120,ENT,revised-or-established,75,31.0039560874,31,31.5,32,-0.00395608742953,0.49604391257
+2025-08,Part_2,monthly,C_120,ENT,revised-or-established,92,46.3742487338,46,46.5,47,-0.374248733821,0.125751266179
+2025-08,Part_2,monthly,C_120,ENT,revised-or-established,95,50.5499589828,50,50.5,51,-0.549958982773,-0.0499589827728
+2025-08,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,10.6058934079,10,10.5,11,-0.605893407864,-0.105893407864
+2025-08,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,21.0080013218,21,21.5,22,-0.00800132175226,0.491998678248
+2025-08,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,36.1388014981,36,36.5,37,-0.138801498127,0.361198501873
+2025-08,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,41.3407063197,41,41.5,42,-0.340706319703,0.159293680297
+2025-08,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,12.3653449166,12,12.5,13,-0.365344916566,0.134655083434
+2025-08,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.3093894101,24,24.5,25,-0.309389410081,0.190610589919
+2025-08,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,40.0181978669,40,40.5,41,-0.0181978668628,0.481802133137
+2025-08,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,44.6284953704,44,44.5,45,-0.62849537037,-0.12849537037
+2025-08,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.6042503347,13,13.5,14,-0.604250334672,-0.104250334672
+2025-08,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.3846355729,25,25.5,26,-0.384635572885,0.115364427115
+2025-08,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.445819135,40,40.5,41,-0.445819134993,0.0541808650066
+2025-08,Part_2,monthly,C_320,Cardiology,revised-or-established,95,44.7381290323,44,44.5,45,-0.738129032258,-0.238129032258
+2025-08,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.4243320933,15,15.5,16,-0.424332093338,0.0756679066622
+2025-08,Part_2,monthly,C_400,Neurology,revised-or-established,75,28.2859068975,28,28.5,29,-0.285906897531,0.214093102469
+2025-08,Part_2,monthly,C_400,Neurology,revised-or-established,92,43.8322303922,43,43.5,44,-0.832230392157,-0.332230392157
+2025-08,Part_2,monthly,C_400,Neurology,revised-or-established,95,48.1380208333,48,48.5,49,-0.138020833333,0.361979166667
+2025-09,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.3579782006,13,13.5,14,-0.357978200639,0.142021799361
+2025-09,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,25.8475146373,25,25.5,26,-0.847514637301,-0.347514637301
+2025-09,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,41.8140699301,41,41.5,42,-0.81406993007,-0.31406993007
+2025-09,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,46.4143096184,46,46.5,47,-0.414309618394,0.0856903816059
+2025-09,Part_2,monthly,C_100,General surgery,revised-or-established,50,13.3526457399,13,13.5,14,-0.35264573991,0.14735426009
+2025-09,Part_2,monthly,C_100,General surgery,revised-or-established,75,25.9806009576,25,25.5,26,-0.98060095757,-0.48060095757
+2025-09,Part_2,monthly,C_100,General surgery,revised-or-established,92,42.4357371226,42,42.5,43,-0.435737122558,0.0642628774423
+2025-09,Part_2,monthly,C_100,General surgery,revised-or-established,95,47.1605086372,47,47.5,48,-0.160508637236,0.339491362764
+2025-09,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.2083986942,14,14.5,15,-0.208398694196,0.291601305804
+2025-09,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,26.8866658889,26,26.5,27,-0.886665888941,-0.386665888941
+2025-09,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,43.5644382972,43,43.5,44,-0.564438297218,-0.0644382972184
+2025-09,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,48.1480110497,48,48.5,49,-0.148011049724,0.351988950276
+2025-09,Part_2,monthly,C_120,ENT,revised-or-established,50,17.4786058869,17,17.5,18,-0.478605886877,0.0213941131231
+2025-09,Part_2,monthly,C_120,ENT,revised-or-established,75,30.957673628,30,30.5,31,-0.957673627975,-0.457673627975
+2025-09,Part_2,monthly,C_120,ENT,revised-or-established,92,45.7681745885,45,45.5,46,-0.768174588496,-0.268174588496
+2025-09,Part_2,monthly,C_120,ENT,revised-or-established,95,50.078144572,50,50.5,51,-0.078144572025,0.421855427975
+2025-09,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,10.4370669174,10,10.5,11,-0.437066917442,0.0629330825579
+2025-09,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,20.3999124666,20,20.5,21,-0.399912466599,0.100087533401
+2025-09,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,34.7077482045,34,34.5,35,-0.707748204478,-0.207748204478
+2025-09,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,40.4528347631,40,40.5,41,-0.452834763148,0.0471652368519
+2025-09,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,12.2886200017,12,12.5,13,-0.288620001735,0.211379998265
+2025-09,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,24.1322021484,24,24.5,25,-0.132202148438,0.367797851562
+2025-09,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,38.9826355047,38,38.5,39,-0.982635504724,-0.482635504724
+2025-09,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,44.1475254731,44,44.5,45,-0.147525473071,0.352474526929
+2025-09,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.2644295302,13,13.5,14,-0.264429530201,0.235570469799
+2025-09,Part_2,monthly,C_320,Cardiology,revised-or-established,75,25.2215415633,25,25.5,26,-0.221541563275,0.278458436725
+2025-09,Part_2,monthly,C_320,Cardiology,revised-or-established,92,40.1400464962,40,40.5,41,-0.140046496181,0.359953503819
+2025-09,Part_2,monthly,C_320,Cardiology,revised-or-established,95,44.5320392682,44,44.5,45,-0.532039268184,-0.0320392681838
+2025-09,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.1865723765,15,15.5,16,-0.186572376462,0.313427623538
+2025-09,Part_2,monthly,C_400,Neurology,revised-or-established,75,27.8393710191,27,27.5,28,-0.839371019108,-0.339371019108
+2025-09,Part_2,monthly,C_400,Neurology,revised-or-established,92,43.1173903002,43,43.5,44,-0.117390300231,0.382609699769
+2025-09,Part_2,monthly,C_400,Neurology,revised-or-established,95,47.1791471049,47,47.5,48,-0.179147104851,0.320852895149
+2025-10,Part_2,monthly,C_999,"England, all specialties",first-release,50,13.3110657894,13,13.5,14,-0.311065789405,0.188934210595
+2025-10,Part_2,monthly,C_999,"England, all specialties",first-release,75,25.2771881407,25,25.5,26,-0.277188140672,0.222811859328
+2025-10,Part_2,monthly,C_999,"England, all specialties",first-release,92,40.551395717,40,40.5,41,-0.551395716995,-0.0513957169946
+2025-10,Part_2,monthly,C_999,"England, all specialties",first-release,95,46.0841068357,46,46.5,47,-0.084106835742,0.415893164258
+2025-10,Part_2,monthly,C_100,General surgery,first-release,50,13.5227491343,13,13.5,14,-0.522749134282,-0.0227491342824
+2025-10,Part_2,monthly,C_100,General surgery,first-release,75,25.6342727097,25,25.5,26,-0.634272709665,-0.134272709665
+2025-10,Part_2,monthly,C_100,General surgery,first-release,92,41.3354526889,41,41.5,42,-0.335452688904,0.164547311096
+2025-10,Part_2,monthly,C_100,General surgery,first-release,95,46.8881054131,46,46.5,47,-0.888105413105,-0.388105413105
+2025-10,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,50,14.33586975,14,14.5,15,-0.335869750043,0.164130249957
+2025-10,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,75,26.4852600075,26,26.5,27,-0.485260007482,0.0147399925178
+2025-10,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,92,42.3568454683,42,42.5,43,-0.356845468303,0.143154531697
+2025-10,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,95,48.0745127761,48,48.5,49,-0.0745127760935,0.425487223906
+2025-10,Part_2,monthly,C_120,ENT,first-release,50,17.4490287821,17,17.5,18,-0.449028782079,0.0509712179215
+2025-10,Part_2,monthly,C_120,ENT,first-release,75,31.0506412198,31,31.5,32,-0.0506412198324,0.449358780168
+2025-10,Part_2,monthly,C_120,ENT,first-release,92,45.3392466181,45,45.5,46,-0.339246618106,0.160753381894
+2025-10,Part_2,monthly,C_120,ENT,first-release,95,49.5655045421,49,49.5,50,-0.565504542107,-0.0655045421065
+2025-10,Part_2,monthly,C_130,Ophthalmology,first-release,50,10.1414761831,10,10.5,11,-0.141476183072,0.358523816928
+2025-10,Part_2,monthly,C_130,Ophthalmology,first-release,75,20.1618326731,20,20.5,21,-0.161832673081,0.338167326919
+2025-10,Part_2,monthly,C_130,Ophthalmology,first-release,92,34.5923694293,34,34.5,35,-0.59236942932,-0.0923694293204
+2025-10,Part_2,monthly,C_130,Ophthalmology,first-release,95,39.1282336791,39,39.5,40,-0.128233679073,0.371766320927
+2025-10,Part_2,monthly,C_301,Gastroenterology,first-release,50,12.1655872571,12,12.5,13,-0.165587257133,0.334412742867
+2025-10,Part_2,monthly,C_301,Gastroenterology,first-release,75,23.3513681592,23,23.5,24,-0.351368159204,0.148631840796
+2025-10,Part_2,monthly,C_301,Gastroenterology,first-release,92,38.3198911194,38,38.5,39,-0.319891119428,0.180108880572
+2025-10,Part_2,monthly,C_301,Gastroenterology,first-release,95,42.7839386189,42,42.5,43,-0.783938618926,-0.283938618926
+2025-10,Part_2,monthly,C_320,Cardiology,first-release,50,13.1530188331,13,13.5,14,-0.153018833087,0.346981166913
+2025-10,Part_2,monthly,C_320,Cardiology,first-release,75,24.4349186011,24,24.5,25,-0.434918601146,0.0650813988544
+2025-10,Part_2,monthly,C_320,Cardiology,first-release,92,38.8916635279,38,38.5,39,-0.891663527935,-0.391663527935
+2025-10,Part_2,monthly,C_320,Cardiology,first-release,95,43.6271715721,43,43.5,44,-0.627171572146,-0.127171572146
+2025-10,Part_2,monthly,C_400,Neurology,first-release,50,15.0044132918,15,15.5,16,-0.00441329179647,0.495586708204
+2025-10,Part_2,monthly,C_400,Neurology,first-release,75,27.3044513458,27,27.5,28,-0.304451345756,0.195548654244
+2025-10,Part_2,monthly,C_400,Neurology,first-release,92,41.7028829847,41,41.5,42,-0.702882984737,-0.202882984737
+2025-10,Part_2,monthly,C_400,Neurology,first-release,95,46.8835641399,46,46.5,47,-0.883564139942,-0.383564139942
+2025-11,Part_2,monthly,C_999,"England, all specialties",first-release,50,12.8972515877,12,12.5,13,-0.897251587718,-0.397251587718
+2025-11,Part_2,monthly,C_999,"England, all specialties",first-release,75,25.1160617835,25,25.5,26,-0.116061783462,0.383938216538
+2025-11,Part_2,monthly,C_999,"England, all specialties",first-release,92,40.3595505188,40,40.5,41,-0.359550518779,0.140449481221
+2025-11,Part_2,monthly,C_999,"England, all specialties",first-release,95,44.6961684683,44,44.5,45,-0.696168468303,-0.196168468303
+2025-11,Part_2,monthly,C_100,General surgery,first-release,50,13.2521410579,13,13.5,14,-0.252141057935,0.247858942065
+2025-11,Part_2,monthly,C_100,General surgery,first-release,75,25.6032990364,25,25.5,26,-0.60329903642,-0.10329903642
+2025-11,Part_2,monthly,C_100,General surgery,first-release,92,41.3442603153,41,41.5,42,-0.34426031533,0.15573968467
+2025-11,Part_2,monthly,C_100,General surgery,first-release,95,45.795214447,45,45.5,46,-0.795214446953,-0.295214446953
+2025-11,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,50,14.1505255614,14,14.5,15,-0.150525561395,0.349474438605
+2025-11,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,75,26.3017190132,26,26.5,27,-0.301719013177,0.198280986823
+2025-11,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,92,42.0790534785,42,42.5,43,-0.0790534784666,0.420946521533
+2025-11,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,95,46.6165570641,46,46.5,47,-0.616557064064,-0.116557064064
+2025-11,Part_2,monthly,C_120,ENT,first-release,50,17.0616826156,17,17.5,18,-0.06168261563,0.43831738437
+2025-11,Part_2,monthly,C_120,ENT,first-release,75,30.3272187822,30,30.5,31,-0.32721878225,0.17278121775
+2025-11,Part_2,monthly,C_120,ENT,first-release,92,43.8412200913,43,43.5,44,-0.841220091324,-0.341220091324
+2025-11,Part_2,monthly,C_120,ENT,first-release,95,47.9357551487,47,47.5,48,-0.935755148741,-0.435755148741
+2025-11,Part_2,monthly,C_130,Ophthalmology,first-release,50,9.98463468172,9,9.5,10,-0.984634681718,-0.484634681718
+2025-11,Part_2,monthly,C_130,Ophthalmology,first-release,75,20.2793705956,20,20.5,21,-0.279370595617,0.220629404383
+2025-11,Part_2,monthly,C_130,Ophthalmology,first-release,92,34.7515444421,34,34.5,35,-0.75154444211,-0.25154444211
+2025-11,Part_2,monthly,C_130,Ophthalmology,first-release,95,39.2216602202,39,39.5,40,-0.221660220173,0.278339779827
+2025-11,Part_2,monthly,C_301,Gastroenterology,first-release,50,11.9804831915,11,11.5,12,-0.980483191471,-0.480483191471
+2025-11,Part_2,monthly,C_301,Gastroenterology,first-release,75,23.4719881011,23,23.5,24,-0.47198810114,0.0280118988597
+2025-11,Part_2,monthly,C_301,Gastroenterology,first-release,92,38.3575182482,38,38.5,39,-0.357518248175,0.142481751825
+2025-11,Part_2,monthly,C_301,Gastroenterology,first-release,95,42.7252134831,42,42.5,43,-0.725213483146,-0.225213483146
+2025-11,Part_2,monthly,C_320,Cardiology,first-release,50,12.6699150648,12,12.5,13,-0.669915064819,-0.169915064819
+2025-11,Part_2,monthly,C_320,Cardiology,first-release,75,24.0520186335,24,24.5,25,-0.0520186335404,0.44798136646
+2025-11,Part_2,monthly,C_320,Cardiology,first-release,92,38.4435987461,38,38.5,39,-0.443598746082,0.0564012539185
+2025-11,Part_2,monthly,C_320,Cardiology,first-release,95,42.6451178451,42,42.5,43,-0.645117845118,-0.145117845118
+2025-11,Part_2,monthly,C_400,Neurology,first-release,50,14.9967760288,14,14.5,15,-0.996776028826,-0.496776028826
+2025-11,Part_2,monthly,C_400,Neurology,first-release,75,26.9334949775,26,26.5,27,-0.933494977485,-0.433494977485
+2025-11,Part_2,monthly,C_400,Neurology,first-release,92,41.1237901861,41,41.5,42,-0.123790186125,0.376209813875
+2025-11,Part_2,monthly,C_400,Neurology,first-release,95,45.2368115942,45,45.5,46,-0.236811594203,0.263188405797
+2025-12,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,13.4457562768,13,13.5,14,-0.445756276791,0.0542437232088
+2025-12,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,25.7065120275,25,25.5,26,-0.706512027491,-0.206512027491
+2025-12,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,40.7780648501,40,40.5,41,-0.778064850127,-0.278064850127
+2025-12,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,45.0932661808,45,45.5,46,-0.0932661807792,0.406733819221
+2025-12,Part_2,monthly,C_100,General surgery,revised-or-established,50,14.0126374686,14,14.5,15,-0.0126374686475,0.487362531352
+2025-12,Part_2,monthly,C_100,General surgery,revised-or-established,75,26.4889032885,26,26.5,27,-0.488903288514,0.0110967114855
+2025-12,Part_2,monthly,C_100,General surgery,revised-or-established,92,41.8043210295,41,41.5,42,-0.804321029462,-0.304321029462
+2025-12,Part_2,monthly,C_100,General surgery,revised-or-established,95,46.3197374179,46,46.5,47,-0.319737417943,0.180262582057
+2025-12,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.6488005187,14,14.5,15,-0.648800518695,-0.148800518695
+2025-12,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,27.1016910069,27,27.5,28,-0.101691006918,0.398308993082
+2025-12,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,42.4821540809,42,42.5,43,-0.482154080854,0.0178459191457
+2025-12,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,47.0679890272,47,47.5,48,-0.0679890272209,0.432010972779
+2025-12,Part_2,monthly,C_120,ENT,revised-or-established,50,16.9120069354,16,16.5,17,-0.912006935414,-0.412006935414
+2025-12,Part_2,monthly,C_120,ENT,revised-or-established,75,30.3019440444,30,30.5,31,-0.301944044435,0.198055955565
+2025-12,Part_2,monthly,C_120,ENT,revised-or-established,92,44.2722179617,44,44.5,45,-0.272217961655,0.227782038345
+2025-12,Part_2,monthly,C_120,ENT,revised-or-established,95,47.9741971958,47,47.5,48,-0.974197195839,-0.474197195839
+2025-12,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,10.9360204308,10,10.5,11,-0.936020430824,-0.436020430824
+2025-12,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,20.7511751434,20,20.5,21,-0.751175143367,-0.251175143367
+2025-12,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,35.0358210215,35,35.5,36,-0.0358210215281,0.464178978472
+2025-12,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,39.8432387057,39,39.5,40,-0.843238705739,-0.343238705739
+2025-12,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,12.4462361202,12,12.5,13,-0.446236120183,0.0537638798171
+2025-12,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,23.8303116803,23,23.5,24,-0.830311680296,-0.330311680296
+2025-12,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,38.6427120705,38,38.5,39,-0.642712070538,-0.142712070538
+2025-12,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,42.8322807723,42,42.5,43,-0.832280772325,-0.332280772325
+2025-12,Part_2,monthly,C_320,Cardiology,revised-or-established,50,13.0140461578,13,13.5,14,-0.0140461578356,0.485953842164
+2025-12,Part_2,monthly,C_320,Cardiology,revised-or-established,75,24.4034262048,24,24.5,25,-0.403426204819,0.0965737951807
+2025-12,Part_2,monthly,C_320,Cardiology,revised-or-established,92,38.7856230432,38,38.5,39,-0.785623043206,-0.285623043206
+2025-12,Part_2,monthly,C_320,Cardiology,revised-or-established,95,42.959032634,42,42.5,43,-0.959032634033,-0.459032634033
+2025-12,Part_2,monthly,C_400,Neurology,revised-or-established,50,15.1688023236,15,15.5,16,-0.168802323595,0.331197676405
+2025-12,Part_2,monthly,C_400,Neurology,revised-or-established,75,27.3097332577,27,27.5,28,-0.309733257662,0.190266742338
+2025-12,Part_2,monthly,C_400,Neurology,revised-or-established,92,41.3195286885,41,41.5,42,-0.319528688525,0.180471311475
+2025-12,Part_2,monthly,C_400,Neurology,revised-or-established,95,45.2394230769,45,45.5,46,-0.239423076923,0.260576923077
+2026-01,Part_2,monthly,C_999,"England, all specialties",first-release,50,13.6209059592,13,13.5,14,-0.620905959175,-0.120905959175
+2026-01,Part_2,monthly,C_999,"England, all specialties",first-release,75,25.6484716552,25,25.5,26,-0.648471655247,-0.148471655247
+2026-01,Part_2,monthly,C_999,"England, all specialties",first-release,92,40.347456,40,40.5,41,-0.347456,0.152544
+2026-01,Part_2,monthly,C_999,"England, all specialties",first-release,95,44.9822154091,44,44.5,45,-0.982215409099,-0.482215409099
+2026-01,Part_2,monthly,C_100,General surgery,first-release,50,14.2429484769,14,14.5,15,-0.242948476871,0.257051523129
+2026-01,Part_2,monthly,C_100,General surgery,first-release,75,26.7209420535,26,26.5,27,-0.720942053541,-0.220942053541
+2026-01,Part_2,monthly,C_100,General surgery,first-release,92,41.6891808469,41,41.5,42,-0.689180846854,-0.189180846854
+2026-01,Part_2,monthly,C_100,General surgery,first-release,95,46.2577145398,46,46.5,47,-0.257714539795,0.242285460205
+2026-01,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,50,15.0561987041,15,15.5,16,-0.0561987041037,0.443801295896
+2026-01,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,75,27.4056898787,27,27.5,28,-0.405689878728,0.0943101212722
+2026-01,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,92,42.4867104086,42,42.5,43,-0.486710408589,0.0132895914107
+2026-01,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,95,46.9790659566,46,46.5,47,-0.979065956575,-0.479065956575
+2026-01,Part_2,monthly,C_120,ENT,first-release,50,16.5906037945,16,16.5,17,-0.590603794488,-0.0906037944883
+2026-01,Part_2,monthly,C_120,ENT,first-release,75,30.0899030695,30,30.5,31,-0.0899030694669,0.410096930533
+2026-01,Part_2,monthly,C_120,ENT,first-release,92,44.1041255035,44,44.5,45,-0.104125503498,0.395874496502
+2026-01,Part_2,monthly,C_120,ENT,first-release,95,48.0632258924,48,48.5,49,-0.0632258923815,0.436774107619
+2026-01,Part_2,monthly,C_130,Ophthalmology,first-release,50,11.3373210205,11,11.5,12,-0.337321020475,0.162678979525
+2026-01,Part_2,monthly,C_130,Ophthalmology,first-release,75,20.661736899,20,20.5,21,-0.661736898974,-0.161736898974
+2026-01,Part_2,monthly,C_130,Ophthalmology,first-release,92,35.0552828175,35,35.5,36,-0.0552828175027,0.444717182497
+2026-01,Part_2,monthly,C_130,Ophthalmology,first-release,95,39.7347277556,39,39.5,40,-0.734727755644,-0.234727755644
+2026-01,Part_2,monthly,C_301,Gastroenterology,first-release,50,12.6360045606,12,12.5,13,-0.636004560632,-0.136004560632
+2026-01,Part_2,monthly,C_301,Gastroenterology,first-release,75,23.6543114648,23,23.5,24,-0.654311464761,-0.154311464761
+2026-01,Part_2,monthly,C_301,Gastroenterology,first-release,92,37.8858712121,37,37.5,38,-0.885871212121,-0.385871212121
+2026-01,Part_2,monthly,C_301,Gastroenterology,first-release,95,42.70949573,42,42.5,43,-0.709495729972,-0.209495729972
+2026-01,Part_2,monthly,C_320,Cardiology,first-release,50,12.9002405774,12,12.5,13,-0.900240577386,-0.400240577386
+2026-01,Part_2,monthly,C_320,Cardiology,first-release,75,23.960345379,23,23.5,24,-0.960345378957,-0.460345378957
+2026-01,Part_2,monthly,C_320,Cardiology,first-release,92,37.8262936221,37,37.5,38,-0.826293622142,-0.326293622142
+2026-01,Part_2,monthly,C_320,Cardiology,first-release,95,42.5443412162,42,42.5,43,-0.544341216216,-0.0443412162162
+2026-01,Part_2,monthly,C_400,Neurology,first-release,50,15.3753731343,15,15.5,16,-0.375373134328,0.124626865672
+2026-01,Part_2,monthly,C_400,Neurology,first-release,75,27.2915891576,27,27.5,28,-0.291589157587,0.208410842413
+2026-01,Part_2,monthly,C_400,Neurology,first-release,92,41.0228427037,41,41.5,42,-0.0228427037271,0.477157296273
+2026-01,Part_2,monthly,C_400,Neurology,first-release,95,45.0862819627,45,45.5,46,-0.0862819626814,0.413718037319
+2026-02,Part_2,monthly,C_999,"England, all specialties",first-release,50,13.1670783302,13,13.5,14,-0.167078330195,0.332921669805
+2026-02,Part_2,monthly,C_999,"England, all specialties",first-release,75,24.5877061599,24,24.5,25,-0.587706159906,-0.0877061599065
+2026-02,Part_2,monthly,C_999,"England, all specialties",first-release,92,39.4537529686,39,39.5,40,-0.453752968594,0.0462470314061
+2026-02,Part_2,monthly,C_999,"England, all specialties",first-release,95,43.8768024801,43,43.5,44,-0.876802480071,-0.376802480071
+2026-02,Part_2,monthly,C_100,General surgery,first-release,50,13.9339024163,13,13.5,14,-0.93390241627,-0.43390241627
+2026-02,Part_2,monthly,C_100,General surgery,first-release,75,25.9329268293,25,25.5,26,-0.932926829268,-0.432926829268
+2026-02,Part_2,monthly,C_100,General surgery,first-release,92,40.9084289855,40,40.5,41,-0.908428985507,-0.408428985507
+2026-02,Part_2,monthly,C_100,General surgery,first-release,95,45.5235644077,45,45.5,46,-0.523564407656,-0.0235644076565
+2026-02,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,50,14.9383701969,14,14.5,15,-0.938370196931,-0.438370196931
+2026-02,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,75,26.996167979,26,26.5,27,-0.996167979003,-0.496167979003
+2026-02,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,92,41.5998253521,41,41.5,42,-0.599825352113,-0.0998253521127
+2026-02,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,95,46.4445530726,46,46.5,47,-0.444553072626,0.0554469273743
+2026-02,Part_2,monthly,C_120,ENT,first-release,50,15.8189881072,15,15.5,16,-0.818988107236,-0.318988107236
+2026-02,Part_2,monthly,C_120,ENT,first-release,75,28.8530331807,28,28.5,29,-0.85303318065,-0.35303318065
+2026-02,Part_2,monthly,C_120,ENT,first-release,92,43.102343964,43,43.5,44,-0.102343963999,0.397656036001
+2026-02,Part_2,monthly,C_120,ENT,first-release,95,47.4736653825,47,47.5,48,-0.473665382499,0.0263346175014
+2026-02,Part_2,monthly,C_130,Ophthalmology,first-release,50,10.8572853296,10,10.5,11,-0.85728532961,-0.35728532961
+2026-02,Part_2,monthly,C_130,Ophthalmology,first-release,75,20.1336262127,20,20.5,21,-0.133626212704,0.366373787296
+2026-02,Part_2,monthly,C_130,Ophthalmology,first-release,92,34.5076633112,34,34.5,35,-0.507663311202,-0.00766331120155
+2026-02,Part_2,monthly,C_130,Ophthalmology,first-release,95,39.1249240122,39,39.5,40,-0.124924012158,0.375075987842
+2026-02,Part_2,monthly,C_301,Gastroenterology,first-release,50,12.1857538384,12,12.5,13,-0.185753838409,0.314246161591
+2026-02,Part_2,monthly,C_301,Gastroenterology,first-release,75,22.6457378552,22,22.5,23,-0.645737855179,-0.145737855179
+2026-02,Part_2,monthly,C_301,Gastroenterology,first-release,92,36.9171099346,36,36.5,37,-0.9171099346,-0.4171099346
+2026-02,Part_2,monthly,C_301,Gastroenterology,first-release,95,41.2892280072,41,41.5,42,-0.289228007181,0.210771992819
+2026-02,Part_2,monthly,C_320,Cardiology,first-release,50,12.3465554062,12,12.5,13,-0.346555406154,0.153444593846
+2026-02,Part_2,monthly,C_320,Cardiology,first-release,75,22.6859984985,22,22.5,23,-0.685998498498,-0.185998498498
+2026-02,Part_2,monthly,C_320,Cardiology,first-release,92,36.8457176333,36,36.5,37,-0.845717633275,-0.345717633275
+2026-02,Part_2,monthly,C_320,Cardiology,first-release,95,41.1250766535,41,41.5,42,-0.125076653526,0.374923346474
+2026-02,Part_2,monthly,C_400,Neurology,first-release,50,14.9804473769,14,14.5,15,-0.980447376891,-0.480447376891
+2026-02,Part_2,monthly,C_400,Neurology,first-release,75,26.5205237741,26,26.5,27,-0.520523774146,-0.0205237741456
+2026-02,Part_2,monthly,C_400,Neurology,first-release,92,39.9005865922,39,39.5,40,-0.900586592179,-0.400586592179
+2026-02,Part_2,monthly,C_400,Neurology,first-release,95,43.9016943043,43,43.5,44,-0.901694304254,-0.401694304254
+2026-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,50,11.3291372209,11,11.5,12,-0.329137220937,0.170862779063
+2026-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,75,23.329388712,23,23.5,24,-0.329388711976,0.170611288024
+2026-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,92,38.3399138115,38,38.5,39,-0.339913811525,0.160086188475
+2026-03,Part_2,monthly,C_999,"England, all specialties",revised-or-established,95,42.5306982976,42,42.5,43,-0.530698297604,-0.030698297604
+2026-03,Part_2,monthly,C_100,General surgery,revised-or-established,50,12.0841108857,12,12.5,13,-0.0841108857336,0.415889114266
+2026-03,Part_2,monthly,C_100,General surgery,revised-or-established,75,24.9135887305,24,24.5,25,-0.913588730459,-0.413588730459
+2026-03,Part_2,monthly,C_100,General surgery,revised-or-established,92,39.8965914012,39,39.5,40,-0.896591401175,-0.396591401175
+2026-03,Part_2,monthly,C_100,General surgery,revised-or-established,95,44.0520183955,44,44.5,45,-0.0520183955033,0.447981604497
+2026-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,50,14.4561094058,14,14.5,15,-0.456109405782,0.0438905942182
+2026-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,75,26.0313405372,26,26.5,27,-0.0313405371545,0.468659462846
+2026-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,92,40.9104412183,40,40.5,41,-0.910441218332,-0.410441218332
+2026-03,Part_2,monthly,C_110,Trauma and orthopaedics,revised-or-established,95,45.1291071429,45,45.5,46,-0.129107142857,0.370892857143
+2026-03,Part_2,monthly,C_120,ENT,revised-or-established,50,14.5607317737,14,14.5,15,-0.560731773667,-0.060731773667
+2026-03,Part_2,monthly,C_120,ENT,revised-or-established,75,26.8018101019,26,26.5,27,-0.801810101886,-0.301810101886
+2026-03,Part_2,monthly,C_120,ENT,revised-or-established,92,41.6127972028,41,41.5,42,-0.612797202797,-0.112797202797
+2026-03,Part_2,monthly,C_120,ENT,revised-or-established,95,45.7615504278,45,45.5,46,-0.761550427794,-0.261550427794
+2026-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,50,9.08691827588,9,9.5,10,-0.0869182758765,0.413081724123
+2026-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,75,19.1326329906,19,19.5,20,-0.132632990612,0.367367009388
+2026-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,92,33.3524007387,33,33.5,34,-0.352400738689,0.147599261311
+2026-03,Part_2,monthly,C_130,Ophthalmology,revised-or-established,95,38.1783545841,38,38.5,39,-0.178354584092,0.321645415908
+2026-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,50,10.4294341056,10,10.5,11,-0.429434105583,0.070565894417
+2026-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,75,20.896253715,20,20.5,21,-0.896253715001,-0.396253715001
+2026-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,92,35.7122958828,35,35.5,36,-0.712295882763,-0.212295882763
+2026-03,Part_2,monthly,C_301,Gastroenterology,revised-or-established,95,39.9686381493,39,39.5,40,-0.96863814928,-0.46863814928
+2026-03,Part_2,monthly,C_320,Cardiology,revised-or-established,50,10.6830913998,10,10.5,11,-0.68309139981,-0.18309139981
+2026-03,Part_2,monthly,C_320,Cardiology,revised-or-established,75,20.9315551269,20,20.5,21,-0.931555126873,-0.431555126873
+2026-03,Part_2,monthly,C_320,Cardiology,revised-or-established,92,35.4386876465,35,35.5,36,-0.438687646468,0.061312353532
+2026-03,Part_2,monthly,C_320,Cardiology,revised-or-established,95,39.6328118303,39,39.5,40,-0.632811830261,-0.132811830261
+2026-03,Part_2,monthly,C_400,Neurology,revised-or-established,50,13.7581503659,13,13.5,14,-0.758150365935,-0.258150365935
+2026-03,Part_2,monthly,C_400,Neurology,revised-or-established,75,25.0303867403,25,25.5,26,-0.0303867403315,0.469613259669
+2026-03,Part_2,monthly,C_400,Neurology,revised-or-established,92,38.5682476506,38,38.5,39,-0.568247650636,-0.0682476506357
+2026-03,Part_2,monthly,C_400,Neurology,revised-or-established,95,42.3781593407,42,42.5,43,-0.378159340659,0.121840659341
+2026-04,Part_2,monthly,C_999,"England, all specialties",first-release,50,11.8956547032,11,11.5,12,-0.895654703189,-0.395654703189
+2026-04,Part_2,monthly,C_999,"England, all specialties",first-release,75,23.5913176097,23,23.5,24,-0.591317609658,-0.0913176096576
+2026-04,Part_2,monthly,C_999,"England, all specialties",first-release,92,38.7020305382,38,38.5,39,-0.702030538246,-0.202030538246
+2026-04,Part_2,monthly,C_999,"England, all specialties",first-release,95,43.0835626618,43,43.5,44,-0.0835626618084,0.416437338192
+2026-04,Part_2,monthly,C_100,General surgery,first-release,50,12.6680230587,12,12.5,13,-0.668023058664,-0.168023058664
+2026-04,Part_2,monthly,C_100,General surgery,first-release,75,25.2942209731,25,25.5,26,-0.294220973125,0.205779026875
+2026-04,Part_2,monthly,C_100,General surgery,first-release,92,40.4601851217,40,40.5,41,-0.4601851217,0.0398148782996
+2026-04,Part_2,monthly,C_100,General surgery,first-release,95,44.6427216495,44,44.5,45,-0.642721649485,-0.142721649485
+2026-04,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,50,13.8191458454,13,13.5,14,-0.819145845439,-0.319145845439
+2026-04,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,75,26.5390881484,26,26.5,27,-0.539088148391,-0.0390881483913
+2026-04,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,92,41.5643183561,41,41.5,42,-0.56431835608,-0.0643183560804
+2026-04,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,95,45.6845222452,45,45.5,46,-0.684522245166,-0.184522245166
+2026-04,Part_2,monthly,C_120,ENT,first-release,50,14.0985608901,14,14.5,15,-0.0985608900714,0.401439109929
+2026-04,Part_2,monthly,C_120,ENT,first-release,75,27.0034450843,27,27.5,28,-0.00344508432744,0.496554915673
+2026-04,Part_2,monthly,C_120,ENT,first-release,92,41.734370434,41,41.5,42,-0.734370434035,-0.234370434035
+2026-04,Part_2,monthly,C_120,ENT,first-release,95,45.9281726544,45,45.5,46,-0.928172654433,-0.428172654433
+2026-04,Part_2,monthly,C_130,Ophthalmology,first-release,50,9.66801235839,9,9.5,10,-0.668012358393,-0.168012358393
+2026-04,Part_2,monthly,C_130,Ophthalmology,first-release,75,19.2595258662,19,19.5,20,-0.259525866206,0.240474133794
+2026-04,Part_2,monthly,C_130,Ophthalmology,first-release,92,33.2587080343,33,33.5,34,-0.258708034267,0.241291965733
+2026-04,Part_2,monthly,C_130,Ophthalmology,first-release,95,38.3490525008,38,38.5,39,-0.349052500777,0.150947499223
+2026-04,Part_2,monthly,C_301,Gastroenterology,first-release,50,11.114665127,11,11.5,12,-0.114665127021,0.385334872979
+2026-04,Part_2,monthly,C_301,Gastroenterology,first-release,75,21.2511345853,21,21.5,22,-0.25113458529,0.24886541471
+2026-04,Part_2,monthly,C_301,Gastroenterology,first-release,92,35.9878698482,35,35.5,36,-0.987869848156,-0.487869848156
+2026-04,Part_2,monthly,C_301,Gastroenterology,first-release,95,40.478762466,40,40.5,41,-0.478762466002,0.0212375339982
+2026-04,Part_2,monthly,C_320,Cardiology,first-release,50,11.4161514415,11,11.5,12,-0.416151441473,0.0838485585273
+2026-04,Part_2,monthly,C_320,Cardiology,first-release,75,21.3660816619,21,21.5,22,-0.366081661891,0.133918338109
+2026-04,Part_2,monthly,C_320,Cardiology,first-release,92,35.4666115702,35,35.5,36,-0.466611570248,0.0333884297521
+2026-04,Part_2,monthly,C_320,Cardiology,first-release,95,40.009481982,40,40.5,41,-0.00948198198198,0.490518018018
+2026-04,Part_2,monthly,C_400,Neurology,first-release,50,13.515149099,13,13.5,14,-0.515149099027,-0.0151490990273
+2026-04,Part_2,monthly,C_400,Neurology,first-release,75,25.4343946316,25,25.5,26,-0.434394631639,0.0656053683609
+2026-04,Part_2,monthly,C_400,Neurology,first-release,92,39.163935213,39,39.5,40,-0.163935212957,0.336064787043
+2026-04,Part_2,monthly,C_400,Neurology,first-release,95,43.0272338772,43,43.5,44,-0.0272338772339,0.472766122766
+2026-04,Part_1A,full,C_999,"England, all specialties",first-release,50,13.0793325004,13,13.5,14,-0.0793325004462,0.420667499554
+2026-04,Part_1A,full,C_999,"England, all specialties",first-release,75,31.295472837,31,31.5,32,-0.295472837022,0.204527162978
+2026-04,Part_1A,full,C_999,"England, all specialties",first-release,92,52.0669970601,52,52.5,53,-0.0669970600588,0.433002939941
+2026-04,Part_1A,full,C_999,"England, all specialties",first-release,95,56.5702618884,56,56.5,57,-0.570261888353,-0.0702618883529
+2026-04,Part_1A,full,C_100,General surgery,first-release,50,16.8764044944,16,16.5,17,-0.876404494382,-0.376404494382
+2026-04,Part_1A,full,C_100,General surgery,first-release,75,36.1013513514,36,36.5,37,-0.101351351351,0.398648648649
+2026-04,Part_1A,full,C_100,General surgery,first-release,92,52.8175206612,52,52.5,53,-0.817520661157,-0.317520661157
+2026-04,Part_1A,full,C_100,General surgery,first-release,95,56.4018292683,56,56.5,57,-0.401829268293,0.0981707317073
+2026-04,Part_1A,full,C_110,Trauma and orthopaedics,first-release,50,24.7663755459,24,24.5,25,-0.766375545852,-0.266375545852
+2026-04,Part_1A,full,C_110,Trauma and orthopaedics,first-release,75,41.6550255537,41,41.5,42,-0.655025553663,-0.155025553663
+2026-04,Part_1A,full,C_110,Trauma and orthopaedics,first-release,92,55.9779345088,55,55.5,56,-0.977934508816,-0.477934508816
+2026-04,Part_1A,full,C_110,Trauma and orthopaedics,first-release,95,60.3917266187,60,60.5,61,-0.391726618705,0.108273381295
+2026-04,Part_1A,full,C_120,ENT,first-release,50,26.3771929825,26,26.5,27,-0.377192982456,0.122807017544
+2026-04,Part_1A,full,C_120,ENT,first-release,75,49.4457013575,49,49.5,50,-0.445701357466,0.0542986425339
+2026-04,Part_1A,full,C_120,ENT,first-release,92,61.1388957055,61,61.5,62,-0.138895705521,0.361104294479
+2026-04,Part_1A,full,C_120,ENT,first-release,95,63.542384106,63,63.5,64,-0.54238410596,-0.0423841059603
+2026-04,Part_1A,full,C_130,Ophthalmology,first-release,50,11.675066313,11,11.5,12,-0.675066312997,-0.175066312997
+2026-04,Part_1A,full,C_130,Ophthalmology,first-release,75,21.1224537037,21,21.5,22,-0.122453703704,0.377546296296
+2026-04,Part_1A,full,C_130,Ophthalmology,first-release,92,39.003652968,39,39.5,40,-0.00365296803654,0.496347031963
+2026-04,Part_1A,full,C_130,Ophthalmology,first-release,95,46.2240932642,46,46.5,47,-0.224093264249,0.275906735751
+2026-04,Part_1A,full,C_301,Gastroenterology,first-release,50,4.73300229183,4,4.5,5,-0.733002291826,-0.233002291826
+2026-04,Part_1A,full,C_301,Gastroenterology,first-release,75,11.0112068966,11,11.5,12,-0.0112068965517,0.488793103448
+2026-04,Part_1A,full,C_301,Gastroenterology,first-release,92,30.785060241,30,30.5,31,-0.785060240964,-0.285060240964
+2026-04,Part_1A,full,C_301,Gastroenterology,first-release,95,40.6633333333,40,40.5,41,-0.663333333333,-0.163333333333
+2026-04,Part_1A,full,C_320,Cardiology,first-release,50,11.2746666667,11,11.5,12,-0.274666666667,0.225333333333
+2026-04,Part_1A,full,C_320,Cardiology,first-release,75,23.7218309859,23,23.5,24,-0.721830985915,-0.221830985915
+2026-04,Part_1A,full,C_320,Cardiology,first-release,92,46.8847457627,46,46.5,47,-0.884745762712,-0.384745762712
+2026-04,Part_1A,full,C_320,Cardiology,first-release,95,51.5104166667,51,51.5,52,-0.510416666667,-0.0104166666667
+2026-04,Part_1A,full,C_400,Neurology,first-release,50,5.7,5,5.5,6,-0.7,-0.2
+2026-04,Part_1A,full,C_400,Neurology,first-release,75,13.53125,13,13.5,14,-0.53125,-0.03125
+2026-04,Part_1A,full,C_400,Neurology,first-release,92,31.0933333333,31,31.5,32,-0.0933333333333,0.406666666667
+2026-04,Part_1A,full,C_400,Neurology,first-release,95,39.3,39,39.5,40,-0.3,0.2
+2026-04,Part_1B,full,C_999,"England, all specialties",first-release,50,8.81865040794,8,8.5,9,-0.818650407941,-0.318650407941
+2026-04,Part_1B,full,C_999,"England, all specialties",first-release,75,23.4718173706,23,23.5,24,-0.471817370613,0.0281826293873
+2026-04,Part_1B,full,C_999,"England, all specialties",first-release,92,44.220007775,44,44.5,45,-0.220007775042,0.279992224958
+2026-04,Part_1B,full,C_999,"England, all specialties",first-release,95,48.9847228285,48,48.5,49,-0.984722828459,-0.484722828459
+2026-04,Part_1B,full,C_100,General surgery,first-release,50,7.27264957265,7,7.5,8,-0.27264957265,0.22735042735
+2026-04,Part_1B,full,C_100,General surgery,first-release,75,21.1918016194,21,21.5,22,-0.191801619433,0.308198380567
+2026-04,Part_1B,full,C_100,General surgery,first-release,92,44.2653061224,44,44.5,45,-0.265306122449,0.234693877551
+2026-04,Part_1B,full,C_100,General surgery,first-release,95,49.7101851852,49,49.5,50,-0.710185185185,-0.210185185185
+2026-04,Part_1B,full,C_110,Trauma and orthopaedics,first-release,50,12.8741273997,12,12.5,13,-0.874127399651,-0.374127399651
+2026-04,Part_1B,full,C_110,Trauma and orthopaedics,first-release,75,26.6489403454,26,26.5,27,-0.648940345369,-0.148940345369
+2026-04,Part_1B,full,C_110,Trauma and orthopaedics,first-release,92,47.0645839416,47,47.5,48,-0.0645839416058,0.435416058394
+2026-04,Part_1B,full,C_110,Trauma and orthopaedics,first-release,95,51.9809477756,51,51.5,52,-0.980947775629,-0.480947775629
+2026-04,Part_1B,full,C_120,ENT,first-release,50,13.4464285714,13,13.5,14,-0.446428571429,0.0535714285714
+2026-04,Part_1B,full,C_120,ENT,first-release,75,33.7030141844,33,33.5,34,-0.703014184397,-0.203014184397
+2026-04,Part_1B,full,C_120,ENT,first-release,92,50.3955182073,50,50.5,51,-0.395518207283,0.104481792717
+2026-04,Part_1B,full,C_120,ENT,first-release,95,54.2992341357,54,54.5,55,-0.299234135667,0.200765864333
+2026-04,Part_1B,full,C_130,Ophthalmology,first-release,50,7.87724411285,7,7.5,8,-0.877244112847,-0.377244112847
+2026-04,Part_1B,full,C_130,Ophthalmology,first-release,75,18.6752784653,18,18.5,19,-0.675278465347,-0.175278465347
+2026-04,Part_1B,full,C_130,Ophthalmology,first-release,92,36.8117254174,36,36.5,37,-0.81172541744,-0.31172541744
+2026-04,Part_1B,full,C_130,Ophthalmology,first-release,95,43.0526966292,43,43.5,44,-0.0526966292135,0.447303370787
+2026-04,Part_1B,full,C_301,Gastroenterology,first-release,50,10.6620209059,10,10.5,11,-0.662020905923,-0.162020905923
+2026-04,Part_1B,full,C_301,Gastroenterology,first-release,75,27.3166089965,27,27.5,28,-0.31660899654,0.18339100346
+2026-04,Part_1B,full,C_301,Gastroenterology,first-release,92,45.919798995,45,45.5,46,-0.919798994975,-0.419798994975
+2026-04,Part_1B,full,C_301,Gastroenterology,first-release,95,50.0609230769,50,50.5,51,-0.0609230769231,0.439076923077
+2026-04,Part_1B,full,C_320,Cardiology,first-release,50,12.6417624521,12,12.5,13,-0.641762452107,-0.141762452107
+2026-04,Part_1B,full,C_320,Cardiology,first-release,75,27.1410171731,27,27.5,28,-0.141017173052,0.358982826948
+2026-04,Part_1B,full,C_320,Cardiology,first-release,92,44.5884528302,44,44.5,45,-0.588452830189,-0.0884528301887
+2026-04,Part_1B,full,C_320,Cardiology,first-release,95,48.6634393064,48,48.5,49,-0.663439306358,-0.163439306358
+2026-04,Part_1B,full,C_400,Neurology,first-release,50,18.3368932039,18,18.5,19,-0.336893203883,0.163106796117
+2026-04,Part_1B,full,C_400,Neurology,first-release,75,33.960978836,33,33.5,34,-0.960978835979,-0.460978835979
+2026-04,Part_1B,full,C_400,Neurology,first-release,92,49.6027428571,49,49.5,50,-0.602742857143,-0.102742857143
+2026-04,Part_1B,full,C_400,Neurology,first-release,95,52.5320960699,52,52.5,53,-0.532096069869,-0.032096069869
+2026-05,Part_2,monthly,C_999,"England, all specialties",first-release,50,12.4228168014,12,12.5,13,-0.422816801396,0.0771831986041
+2026-05,Part_2,monthly,C_999,"England, all specialties",first-release,75,23.9010734215,23,23.5,24,-0.901073421515,-0.401073421515
+2026-05,Part_2,monthly,C_999,"England, all specialties",first-release,92,38.5686655224,38,38.5,39,-0.56866552242,-0.0686655224201
+2026-05,Part_2,monthly,C_999,"England, all specialties",first-release,95,43.4277730493,43,43.5,44,-0.42777304929,0.0722269507097
+2026-05,Part_2,monthly,C_100,General surgery,first-release,50,13.260616042,13,13.5,14,-0.260616042019,0.239383957981
+2026-05,Part_2,monthly,C_100,General surgery,first-release,75,25.6948445459,25,25.5,26,-0.694844545934,-0.194844545934
+2026-05,Part_2,monthly,C_100,General surgery,first-release,92,40.8737657046,40,40.5,41,-0.873765704584,-0.373765704584
+2026-05,Part_2,monthly,C_100,General surgery,first-release,95,45.2998877917,45,45.5,46,-0.299887791741,0.200112208259
+2026-05,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,50,14.1108450704,14,14.5,15,-0.110845070423,0.389154929577
+2026-05,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,75,26.8269870051,26,26.5,27,-0.826987005138,-0.326987005138
+2026-05,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,92,41.8352372035,41,41.5,42,-0.835237203496,-0.335237203496
+2026-05,Part_2,monthly,C_110,Trauma and orthopaedics,first-release,95,46.2482182855,46,46.5,47,-0.248218285482,0.251781714518
+2026-05,Part_2,monthly,C_120,ENT,first-release,50,14.7580394036,14,14.5,15,-0.758039403557,-0.258039403557
+2026-05,Part_2,monthly,C_120,ENT,first-release,75,27.1176300578,27,27.5,28,-0.117630057803,0.382369942197
+2026-05,Part_2,monthly,C_120,ENT,first-release,92,41.626389012,41,41.5,42,-0.626389011963,-0.126389011963
+2026-05,Part_2,monthly,C_120,ENT,first-release,95,46.119579288,46,46.5,47,-0.119579288026,0.380420711974
+2026-05,Part_2,monthly,C_130,Ophthalmology,first-release,50,10.2063224761,10,10.5,11,-0.206322476126,0.293677523874
+2026-05,Part_2,monthly,C_130,Ophthalmology,first-release,75,18.4396950984,18,18.5,19,-0.439695098418,0.0603049015824
+2026-05,Part_2,monthly,C_130,Ophthalmology,first-release,92,33.4115369857,33,33.5,34,-0.411536985717,0.0884630142827
+2026-05,Part_2,monthly,C_130,Ophthalmology,first-release,95,38.1842937676,38,38.5,39,-0.184293767617,0.315706232383
+2026-05,Part_2,monthly,C_301,Gastroenterology,first-release,50,11.7718113292,11,11.5,12,-0.771811329204,-0.271811329204
+2026-05,Part_2,monthly,C_301,Gastroenterology,first-release,75,20.9608912321,20,20.5,21,-0.960891232125,-0.460891232125
+2026-05,Part_2,monthly,C_301,Gastroenterology,first-release,92,36.1127627302,36,36.5,37,-0.112762730228,0.387237269772
+2026-05,Part_2,monthly,C_301,Gastroenterology,first-release,95,40.7705414013,40,40.5,41,-0.770541401274,-0.270541401274
+2026-05,Part_2,monthly,C_320,Cardiology,first-release,50,12.1298895957,12,12.5,13,-0.129889595672,0.370110404328
+2026-05,Part_2,monthly,C_320,Cardiology,first-release,75,21.2403892073,21,21.5,22,-0.240389207259,0.259610792741
+2026-05,Part_2,monthly,C_320,Cardiology,first-release,92,35.5178858075,35,35.5,36,-0.517885807504,-0.0178858075041
+2026-05,Part_2,monthly,C_320,Cardiology,first-release,95,40.1270585436,40,40.5,41,-0.127058543551,0.372941456449
+2026-05,Part_2,monthly,C_400,Neurology,first-release,50,14.0042365554,14,14.5,15,-0.00423655542106,0.495763444579
+2026-05,Part_2,monthly,C_400,Neurology,first-release,75,25.7301219189,25,25.5,26,-0.730121918897,-0.230121918897
+2026-05,Part_2,monthly,C_400,Neurology,first-release,92,38.9454504757,38,38.5,39,-0.945450475658,-0.445450475658
+2026-05,Part_2,monthly,C_400,Neurology,first-release,95,43.1365729899,43,43.5,44,-0.136572989852,0.363427010148

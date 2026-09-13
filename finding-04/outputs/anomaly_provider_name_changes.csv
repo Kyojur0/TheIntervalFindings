@@ -1,0 +1,21 @@
+candidate_id,previous_period,period,provider,name_before,name_after,cause,disposition
+PN001,2024-03,2024-04,NCN,DMC COMMUNITY OUTPATIENT SERVICES,DMC HEALTHCARE,label changed; organisational cause not established,benign for code-based pooling
+PN002,2024-08,2024-09,NT448,HUDDERSFIELD HOSPITAL,THE HUDDERSFIELD PRIVATE HOSPITAL,label changed; organisational cause not established,benign for code-based pooling
+PN003,2024-08,2024-09,NT449,LANCASTER HOSPITAL,THE LANCASTER PRIVATE HOSPITAL,label changed; organisational cause not established,benign for code-based pooling
+PN004,2024-08,2024-09,NT450,LINCOLN HOSPITAL,THE LINCOLN PRIVATE HOSPITAL,label changed; organisational cause not established,benign for code-based pooling
+PN005,2024-09,2024-10,RRE,MIDLANDS PARTNERSHIP NHS FOUNDATION TRUST,MIDLANDS PARTNERSHIP UNIVERSITY NHS FOUNDATION TRUST,label changed; organisational cause not established,benign for code-based pooling
+PN006,2024-09,2024-10,RW1,SOUTHERN HEALTH NHS FOUNDATION TRUST,HAMPSHIRE AND ISLE OF WIGHT HEALTHCARE NHS FOUNDATION TRUST,label changed; organisational cause not established,benign for code-based pooling
+PN007,2024-10,2024-11,NT448,THE HUDDERSFIELD PRIVATE HOSPITAL,HUDDERSFIELD PRIVATE HOSPITAL,label changed; organisational cause not established,benign for code-based pooling
+PN008,2024-10,2024-11,NT449,THE LANCASTER PRIVATE HOSPITAL,LANCASTER PRIVATE HOSPITAL,label changed; organisational cause not established,benign for code-based pooling
+PN009,2024-10,2024-11,NT450,THE LINCOLN PRIVATE HOSPITAL,LINCOLN PRIVATE HOSPITAL,label changed; organisational cause not established,benign for code-based pooling
+PN010,2024-10,2024-11,RAX,KINGSTON HOSPITAL NHS FOUNDATION TRUST,KINGSTON AND RICHMOND NHS FOUNDATION TRUST,label changed; organisational cause not established,benign for code-based pooling
+PN011,2024-10,2024-11,RWD,UNITED LINCOLNSHIRE HOSPITALS NHS TRUST,UNITED LINCOLNSHIRE TEACHING HOSPITALS NHS TRUST,label changed; organisational cause not established,benign for code-based pooling
+PN012,2025-03,2025-04,Q8X0X,SPAMEDICA ISLE OF WIGHT,SPAMEDICA ISLE OF WIGHT COMMUNITY DIAGNOSTIC & TREATMENT CENTRE,label changed; organisational cause not established,benign for code-based pooling
+PN013,2025-03,2025-04,RHU,PORTSMOUTH HOSPITALS UNIVERSITY NATIONAL HEALTH SERVICE TRUST,PORTSMOUTH HOSPITALS UNIVERSITY NHS TRUST,label changed; organisational cause not established,benign for code-based pooling
+PN014,2025-08,2025-09,NWV01,GP CARE UK,COHESE HEALTHCARE,label changed; organisational cause not established,benign for code-based pooling
+PN015,2025-08,2025-09,RA2,ROYAL SURREY COUNTY HOSPITAL NHS FOUNDATION TRUST,ROYAL SURREY NHS FOUNDATION TRUST,label changed; organisational cause not established,benign for code-based pooling
+PN016,2025-08,2025-09,RWH,EAST AND NORTH HERTFORDSHIRE NHS TRUST,EAST AND NORTH HERTFORDSHIRE TEACHING NHS TRUST,label changed; organisational cause not established,benign for code-based pooling
+PN017,2025-09,2025-10,NMG,CONNECT HEALTH LIMITED,CORA HEALTH MSK (FORMERLY CONNECT HEALTH LTD),label changed; organisational cause not established,benign for code-based pooling
+PN018,2025-09,2025-10,NYR,HEALTHSHARE DIAGNOSTICS,CORA HEALTH DIAGNOSTICS (FORMERLY HEALTHSHARE DIAGNOSTICS),label changed; organisational cause not established,benign for code-based pooling
+PN019,2025-12,2026-01,RRF,"WRIGHTINGTON, WIGAN AND LEIGH NHS FOUNDATION TRUST","WRIGHTINGTON, WIGAN AND LEIGH TEACHING HOSPITALS NHS FOUNDATION TRUST",label changed; organisational cause not established,benign for code-based pooling
+PN020,2026-03,2026-04,RWW,WARRINGTON AND HALTON TEACHING HOSPITALS NHS FOUNDATION TRUST,NORTH CHESHIRE AND MERSEY NHS FOUNDATION TRUST,label changed; organisational cause not established,benign for code-based pooling

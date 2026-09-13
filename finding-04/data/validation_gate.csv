@@ -1,0 +1,2 @@
+month,official_value,computed_value,difference,official_unrounded_value,unrounded_difference,status,source_url,method_note
+2024-01,15.0,15.039572851097871,0.03957285109787101,15.0395728510979,-2.842170943040401e-14,PASS,https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2024/03/Incomplete-Commissioner-Jan24-XLSX-4254K-55749.xlsx,Linear p*N within one-week band; published precision one decimal; C_999 once.
